@@ -1,0 +1,45 @@
+{% macro render_element(element) %} {% if element.type == "text" %} {% if
+element.content is defined %}
+<p>{{ element.content }}</p>
+{% endif %} {% if element.elements is defined %} {% for child in
+element.elements %} {{ render_element(child) }} {% endfor %} {% endif %} {% elif
+element.type == "paragraph" %}
+<article class="law-element">
+	{% if element.nr is defined %}
+	<h2>({{ element.nr }})</h2>
+	{% endif %}
+
+	<div class="law-element-content">
+		{% for child in element.elements %} {{ render_element(child) }} {%
+		endfor %}
+	</div>
+</article>
+
+{% elif element.type == "ordered-list" %}
+<ol class="law-list ordered">
+	{% for item in element.elements %}
+	<li>
+		{% if item.marker is defined %}
+		<span class="list-marker">{{ item.marker }}</span>
+		{% endif %}
+
+		<div class="list-item-content">
+			{% for child in item.elements %} {{ render_element(child) }} {%
+			endfor %}
+		</div>
+	</li>
+	{% endfor %}
+</ol>
+
+{% elif element.type == "unordered-list" %}
+<ul class="law-list unordered">
+	{% for item in element.elements %}
+	<li>
+		<div class="list-item-content">
+			{% for child in item.elements %} {{ render_element(child) }} {%
+			endfor %}
+		</div>
+	</li>
+	{% endfor %}
+</ul>
+{% endif %} {% endmacro %}

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Lexora - {{ book.abbr }}</title>
+
+		{% include 'include/imports.html' %}
+	</head>
+	<body>
+		<div class="head">
+			<p>Lexora</p>
+		</div>
+		<main>
+			<aside class="nav">
+				<h2>Navigation</h2>
+				<div id="law-books"></div>
+			</aside>
+			<div id="content">
+				<section class="law-header">
+					<div class="law-title">
+						<div class="law-icon">
+							<i class="fa-solid fa-{{ book.icon }}"></i>
+						</div>
+						<div>
+							<h1>{{ book.abbr }} &middot; {{ book.name }}</h1>
+							<p class="law-description">{{ book.desc }}</p>
+						</div>
+					</div>
+
+					<div class="law-meta">
+						<i class="fa-regular fa-clock"></i>
+						<span>Zuletzt aktualisiert: {{ book_updated }}</span>
+					</div>
+				</section>
+
+				<div class="law-search">
+					<i class="fa-solid fa-magnifying-glass"></i>
+					<input
+						type="search"
+						id="law-search"
+						placeholder="Artikel oder Paragraph suchen ..."
+						autocomplete="off" />
+					<kbd> / </kbd>
+				</div>
+
+				<p class="search-results" id="search-results"></p>
+
+				<section class="law-paragraphs" id="law-paragraphs">
+					{% for p in book.laws %}
+					<button
+						class="paragraph"
+						data-id="{{ p.id }}"
+						data-search="{{ (p.nr ~ ' ' ~ (p.name or ''))|lower }}">
+						<div class="paragraph-title">
+							<span class="paragraph-number"
+								>{{ book.prefix if not p.no_prefix }} {{ p.nr
+								}}</span
+							>
+							{% if p.name %}
+							<span class="paragraph-name">{{ p.name }}</span>
+							{% endif %}
+						</div>
+						<i class="fa-solid fa-chevron-right"></i>
+					</button>
+					{% endfor %}
+				</section>
+			</div>
+		</main>
+
+		<script src="/static/script.js"></script>
+	</body>
+</html>

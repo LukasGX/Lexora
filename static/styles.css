@@ -1,0 +1,417 @@
+:root {
+	--primary-color: #ffde71;
+	--primary-dark: #e9bd45;
+
+	--bg: #fff7e1;
+	--bg-dark: #f5e8c4;
+	--surface: #ffffff;
+	--surface-hover: #fff4d6;
+
+	--text: #302b20;
+	--text-muted: #81765f;
+	--border: #e9dfc8;
+
+	--radius: 10px;
+	--shadow: 0 2px 8px rgba(70, 52, 12, 0.06);
+}
+
+* {
+	font-family: "Cantarell", sans-serif;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	color: var(--text);
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	background: var(--bg);
+}
+
+/* Header */
+.head {
+	background: var(--bg);
+	padding: 0.8rem 1.5rem;
+	flex-shrink: 0;
+	border-bottom: 1px solid var(--border);
+	z-index: 2;
+}
+
+.head p {
+	font-family: "Black Ops One", system-ui;
+	font-size: 1.8rem;
+	font-weight: normal;
+	margin: 0;
+	color: #5d481b;
+}
+
+/* Main layout */
+main {
+	display: flex;
+	flex: 1;
+	min-height: 0;
+	overflow: hidden;
+}
+
+/* Navigation */
+aside.nav {
+	width: 240px;
+	flex-shrink: 0;
+	background: var(--bg-dark);
+	border-right: 1px solid var(--border);
+	overflow-y: auto;
+}
+
+aside.nav h2 {
+	background: transparent;
+	padding: 1.2rem 1rem 0.6rem;
+	margin: 0;
+	margin-bottom: 0.5rem;
+
+	font-size: 0.75rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	color: var(--text-muted);
+}
+
+/* Main content */
+#content {
+	flex: 1;
+	min-width: 0;
+	overflow-y: auto;
+	padding: 2rem;
+	background: var(--surface);
+}
+
+#content > h1 {
+	margin: 0 0 1rem 0;
+}
+
+#content > h1 i {
+	margin-right: 1rem;
+}
+
+/* Law books */
+#law-books {
+	display: flex;
+	flex-direction: column;
+	gap: 0.25rem;
+	padding: 0 0.6rem;
+}
+
+.law-book {
+	padding: 0.7rem 0.9rem;
+	border-radius: var(--radius);
+	font-size: 0.95rem;
+	font-weight: 500;
+	cursor: pointer;
+	transition:
+		background 0.15s ease,
+		color 0.15s ease;
+}
+
+.law-book:hover {
+	background: var(--surface-hover);
+}
+
+.law-book.active {
+	background: var(--primary-color);
+	color: #40300a;
+	font-weight: 700;
+}
+
+.law-book i {
+	margin-right: 0.5rem;
+	font-size: 1.2rem;
+}
+
+/* Law Header */
+.law-header {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	padding-bottom: 1.75rem;
+	margin-bottom: 2rem;
+	border-bottom: 1px solid var(--border);
+}
+
+.law-title {
+	display: flex;
+	align-items: center;
+	gap: 1.25rem;
+}
+
+.law-icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 64px;
+	height: 64px;
+	flex-shrink: 0;
+	background: var(--bg);
+	color: #806019;
+	border-radius: 14px;
+	font-size: 1.7rem;
+}
+
+.law-title h1 {
+	margin: 0;
+	font-size: 2rem;
+	font-weight: 700;
+	color: var(--text);
+}
+
+.law-description {
+	margin: 0.1rem 0 0;
+	color: var(--text-muted);
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+.law-meta {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	color: var(--text-muted);
+	font-size: 0.85rem;
+}
+
+/* Breadcrumb */
+.law-breadcrumb {
+	display: flex;
+	align-items: center;
+	gap: 0.6rem;
+	font-size: 0.85rem;
+	color: var(--text-muted);
+}
+
+.law-breadcrumb a {
+	color: #806019;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.law-breadcrumb a:hover {
+	text-decoration: underline;
+}
+
+.law-breadcrumb i {
+	font-size: 0.7rem;
+	color: #b5a783;
+}
+
+/* Heading */
+.law-heading h1 {
+	margin: 0;
+	font-size: 2rem;
+	line-height: 1.3;
+	font-weight: 700;
+	color: var(--text);
+}
+
+.law-description {
+	margin: 0.6rem 0 0;
+	color: var(--text-muted);
+	font-size: 0.95rem;
+}
+
+/* Law Paragraphs */
+.law-paragraphs {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	max-width: 900px;
+}
+
+.paragraph {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1rem 1.25rem;
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: var(--radius);
+	cursor: pointer;
+	transition:
+		background 0.15s,
+		border-color 0.15s;
+}
+
+.paragraph:hover {
+	background: var(--surface-hover);
+	border-color: var(--primary-dark);
+}
+
+.paragraph-title {
+	display: flex;
+	align-items: baseline;
+	font-size: 1rem;
+	gap: 0.75rem;
+}
+
+.paragraph-number {
+	font-weight: 700;
+	color: #806019;
+	white-space: nowrap;
+}
+
+.paragraph-name {
+	color: var(--text);
+}
+
+.paragraph > i {
+	color: var(--text-muted);
+	font-size: 0.8rem;
+}
+
+/* Law elements */
+.law-content {
+	max-width: 1000px;
+	line-height: 1.7;
+	color: var(--text);
+}
+
+.law-element {
+	display: grid;
+	grid-template-columns: 3rem minmax(0, 1fr);
+	gap: 1rem;
+	margin-bottom: 1.5rem;
+}
+
+.law-element > h2 {
+	margin: 0;
+	font-size: 1rem;
+	color: var(--text-muted);
+	font-weight: 700;
+}
+
+.law-element-content {
+	min-width: 0;
+}
+
+.law-element-content p,
+.list-item-content p {
+	margin: 0 0 0.75rem;
+}
+
+.law-list {
+	list-style: none;
+	padding: 0;
+	margin: 0.75rem 0;
+}
+
+.law-list li {
+	display: flex;
+	align-items: baseline;
+	gap: 0.75rem;
+	margin-bottom: 0.5rem;
+}
+
+.list-marker {
+	flex: 0 0 1.5rem;
+	text-align: left;
+	font-weight: 600;
+	color: var(--text);
+}
+
+.list-item-content {
+	flex: 1;
+	min-width: 0;
+}
+
+.list-item-content p {
+	margin: 0 0 0.5rem;
+	line-height: 1.7;
+}
+
+.list-marker {
+	font-weight: 600;
+	margin-right: 0.4rem;
+}
+
+.law-list .law-list {
+	margin: 0.75rem 0;
+}
+
+/* Law search */
+.law-search {
+	display: flex;
+	align-items: center;
+	gap: 0.75rem;
+	max-width: 600px;
+	padding: 0.8rem 1rem;
+	margin-bottom: 0.75rem;
+
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: var(--radius);
+
+	transition: border-color 0.15s;
+}
+
+.law-search:focus-within {
+	border-color: var(--primary-dark);
+}
+
+.law-search > i {
+	color: var(--text-muted);
+}
+
+.law-search input {
+	flex: 1;
+	min-width: 0;
+	border: none;
+	outline: none;
+	background: transparent;
+	color: var(--text);
+	font-size: 0.95rem;
+}
+
+.law-search input::placeholder {
+	color: var(--text-muted);
+}
+
+.law-search kbd {
+	padding: 0.2rem 0.45rem;
+	border: 1px solid var(--border);
+	border-radius: 4px;
+	color: var(--text-muted);
+	font-size: 0.8rem;
+}
+
+.search-results {
+	color: var(--text-muted);
+	font-size: 0.8rem;
+	margin: 0 0 1rem;
+}
+
+.paragraph[hidden] {
+	display: none;
+}
+
+/* Scrollbars */
+aside.nav,
+main > div {
+	scrollbar-width: thin;
+	scrollbar-color: #d5c69e transparent;
+}
+
+aside.nav::-webkit-scrollbar,
+main > div::-webkit-scrollbar {
+	width: 7px;
+}
+
+aside.nav::-webkit-scrollbar-thumb,
+main > div::-webkit-scrollbar-thumb {
+	background: #d5c69e;
+	border-radius: 10px;
+}

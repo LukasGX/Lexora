@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="de">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Lexora - {{ book_abbr }} {{ law.nr }}</title>
+
+		{% include 'include/imports.html' %}
+	</head>
+	<body>
+		<div class="head">
+			<p>Lexora</p>
+		</div>
+
+		<main>
+			<aside class="nav">
+				<h2>Navigation</h2>
+				<div id="law-books"></div>
+			</aside>
+
+			<div id="content">
+				<div class="law-header">
+					<nav class="law-breadcrumb">
+						<a href="/book/{{ book_id }}">{{ book_abbr }}</a>
+						<i class="fa-solid fa-chevron-right"></i>
+						<span
+							>{{ book_prefix if not law.no_prefix }} {{ law.nr
+							}}</span
+						>
+					</nav>
+
+					<div class="law-heading">
+						<h1>
+							{{ book_prefix if not law.no_prefix }} {{ law.nr }}
+							{% if law.name %} {{ law.name }} {% endif %}
+						</h1>
+
+						<p class="law-description">{{ book_name }}</p>
+					</div>
+				</div>
+
+				<section class="law-content">
+					{% from "include/law_element.html" import render_element %}
+					{% for element in law.contents %} {{ render_element(element)
+					}} {% endfor %}
+				</section>
+			</div>
+		</main>
+
+		<script src="/static/script.js"></script>
+	</body>
+</html>
