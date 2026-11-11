@@ -42,4 +42,25 @@ element.type == "paragraph" %}
 	</li>
 	{% endfor %}
 </ul>
+
+{% elif element.type == "image" %}
+<figure class="law-image">
+	<img
+		src="/static/resources/{{ element.src }}"
+		alt="{{ element.alt }}"
+		{%
+		if
+		element.width
+		%}width="{{ element.width }}"
+		{%
+		endif
+		%}
+		{%
+		if
+		element.height
+		%}height="{{ element.height }}"
+		{%
+		endif
+		%} />
+</figure>
 {% endif %} {% endmacro %}

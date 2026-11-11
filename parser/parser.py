@@ -38,7 +38,7 @@ def inline_text(element):
 
 
 def parse_blocks(element):
-    """Verarbeitet Textblöcke und verschachtelte Listen."""
+    """Verarbeitet Textblöcke, Listen und Abbildungen."""
 
     elements = []
     buffer = []
@@ -67,7 +67,21 @@ def parse_blocks(element):
                 flush()
                 elements.append(parse_list(child))
 
+            elif tag == "IMG":
+                flush()
+
+                elements.append({
+                    "type": "image",
+                    "src": child.get("SRC", ""),
+                    "alt": child.get("alt", ""),
+                    "width": child.get("Width"),
+                    "height": child.get("Height"),
+                    "align": child.get("Align", "center")
+                })
+
             else:
+                # Dazu gehören auch table, tbody, tr und entry.
+                # Ihre Inhalte werden rekursiv verarbeitet.
                 walk(child)
 
             if child.tail:

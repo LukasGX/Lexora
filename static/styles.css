@@ -398,6 +398,18 @@ aside.nav h2 {
 	display: none;
 }
 
+/* Law image */
+.law-image {
+	margin: 1rem 0;
+	text-align: center;
+}
+
+.law-image img {
+	max-width: 100%;
+	height: auto;
+	object-fit: contain;
+}
+
 /* Scrollbars */
 aside.nav,
 main > div {
