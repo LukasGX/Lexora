@@ -8,10 +8,28 @@ async function loadLaws() {
 	const container = document.getElementById("law-books");
 	container.innerHTML = "";
 
+	const element = document.createElement("button");
+	element.classList.add("law-book");
+	element.dataset.id = "home";
+	if (activeBook == "home") element.classList.add("active");
+
+	element.innerHTML = `
+		<i class="fa-solid fa-home"></i>
+		<span>Start</span>
+	`;
+
+	element.title = "Startseite";
+	container.appendChild(element);
+
+	element.addEventListener("click", () => {
+		window.location.href = `/`;
+	});
+
 	for (const law of laws) {
-		const element = document.createElement("div");
+		const element = document.createElement("button");
 		element.classList.add("law-book");
 		element.dataset.id = law.id;
+		if (law.id == activeBook) element.classList.add("active");
 
 		element.innerHTML = `
             <i class="fa-solid fa-${law.icon}"></i>
@@ -20,6 +38,10 @@ async function loadLaws() {
 
 		element.title = law.name;
 		container.appendChild(element);
+
+		element.addEventListener("click", () => {
+			window.location.href = `/book/${law.id}`;
+		});
 	}
 }
 
