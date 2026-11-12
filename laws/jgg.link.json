@@ -1,0 +1,4848 @@
+{
+    "version": 1,
+    "book": "jgg",
+    "links": [
+        {
+            "source": "jgg-00006",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Abs. 1 des Strafgesetzbuches",
+                    "start": 106,
+                    "end": 139,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00007",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61 Nr. 1, 2, 4 und 5 des Strafgesetzbuches",
+                    "start": 250,
+                    "end": 294,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00061"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "1",
+                            "2",
+                            "4",
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00007",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 251 des Strafgesetzbuches",
+                    "start": 5,
+                    "end": 32,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00251"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 255 des Strafgesetzbuches",
+                    "start": 68,
+                    "end": 95,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00255"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00007",
+            "element_path": [
+                1,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 66a Absatz 3 Satz 1 des Strafgesetzbuches",
+                    "start": 278,
+                    "end": 321,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-66a"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 67c Absatz 1 des Strafgesetzbuches",
+                    "start": 509,
+                    "end": 545,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-67c"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00007",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 92 Absatz 2",
+                    "start": 878,
+                    "end": 891,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00092"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 67a Absatz 2 bis 4 des Strafgesetzbuches",
+                    "start": 983,
+                    "end": 1025,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-67a"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00007",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67d Abs. 6 des Strafgesetzbuches",
+                    "start": 125,
+                    "end": 159,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-67d"
+                    },
+                    "fragment": {
+                        "paragraph": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00007",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 63 des Strafgesetzbuches",
+                    "start": 39,
+                    "end": 65,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00063"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 63 des Strafgesetzbuches",
+                    "start": 216,
+                    "end": 242,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00063"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00007",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67e des Strafgesetzbuches",
+                    "start": 171,
+                    "end": 198,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-67e"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00008",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Nr. 2",
+                    "start": 184,
+                    "end": 194,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00012"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00008",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16a",
+                    "start": 143,
+                    "end": 148,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-16a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00009",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12",
+                    "start": 48,
+                    "end": 52,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00012"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00011",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 10 Abs. 1 Satz 3 Nr. 5",
+                    "start": 131,
+                    "end": 155,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00010"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ],
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 10 Abs. 1 Satz 3 Nr. 6",
+                    "start": 204,
+                    "end": 228,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00010"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ],
+                        "numbers": [
+                            "6"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00012",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30",
+                    "start": 50,
+                    "end": 54,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00030"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00012",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 34",
+                    "start": 96,
+                    "end": 100,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00034"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00015",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Abs. 3",
+                    "start": 199,
+                    "end": 210,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-16a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 1",
+                    "start": 109,
+                    "end": 122,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00021",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16a",
+                    "start": 829,
+                    "end": 834,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-16a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00022",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 21 Abs. 2",
+                    "start": 228,
+                    "end": 239,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00021"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00023",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 15 Abs. 1, 2, 3 Satz 2",
+                    "start": 277,
+                    "end": 301,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00015"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00024",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22 Abs. 2 Satz 1",
+                    "start": 280,
+                    "end": 298,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00022"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00025",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 24 Abs. 3",
+                    "start": 94,
+                    "end": 105,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00026",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 57 Absatz 5 Satz 2 des Strafgesetzbuches",
+                    "start": 224,
+                    "end": 266,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00057"
+                    },
+                    "fragment": {
+                        "paragraph": "5",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00026",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 23",
+                    "start": 96,
+                    "end": 100,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00023"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 16a",
+                    "start": 363,
+                    "end": 368,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-16a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-26a",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26 Abs. 3 Satz 1",
+                    "start": 111,
+                    "end": 129,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00026"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00030",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26 Absatz 3 Satz 3",
+                    "start": 410,
+                    "end": 430,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00026"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00031",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 8",
+                    "start": 188,
+                    "end": 191,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00008"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00031",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26 Absatz 3 Satz 3",
+                    "start": 492,
+                    "end": 512,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00026"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 30 Absatz 1 Satz 2",
+                    "start": 517,
+                    "end": 537,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-33b",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 41 Absatz 1 Nummer 5",
+                    "start": 24,
+                    "end": 46,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00041"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-33b",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 41 Absatz 1 Nummer 2",
+                    "start": 32,
+                    "end": 54,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00041"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-33b",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 33a Abs. 1 Satz 2",
+                    "start": 0,
+                    "end": 19,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-33a"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00034",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 1813 Absatz 1 des Bürgerlichen Gesetzbuchs",
+                    "start": 128,
+                    "end": 172,
+                    "target": {
+                        "book": "bgb",
+                        "law": "bgb-01813"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00034",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 1813 Absatz 1 des Bürgerlichen Gesetzbuches",
+                    "start": 129,
+                    "end": 174,
+                    "target": {
+                        "book": "bgb",
+                        "law": "bgb-01813"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00035",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 40",
+                    "start": 147,
+                    "end": 151,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00040"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00035",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 36",
+                    "start": 85,
+                    "end": 89,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00036"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-37a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Absatz 1",
+                    "start": 145,
+                    "end": 157,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00038",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 50 Absatz 3 Satz 1",
+                    "start": 244,
+                    "end": 264,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00050"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 51 Absatz 2 der Strafprozessordnung",
+                    "start": 491,
+                    "end": 528,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00051"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00038",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 10 Absatz 1 Satz 3 Nummer 5",
+                    "start": 239,
+                    "end": 268,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00010"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ],
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00038",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 10",
+                    "start": 164,
+                    "end": 168,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00010"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00039",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 103",
+                    "start": 332,
+                    "end": 337,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00103"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 209 Abs. 2 der Strafprozeßordnung",
+                    "start": 493,
+                    "end": 528,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00209"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00040",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 209 der Strafprozeßordnung",
+                    "start": 129,
+                    "end": 157,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00209"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00041",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 40 Abs. 2",
+                    "start": 95,
+                    "end": 106,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00040"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00041",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 103",
+                    "start": 9,
+                    "end": 14,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00103"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00041",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 7 Abs. 2",
+                    "start": 44,
+                    "end": 54,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00007"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00041",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 73 Abs. 1",
+                    "start": 204,
+                    "end": 215,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00073"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00043",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 38 Absatz 6",
+                    "start": 610,
+                    "end": 623,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00038"
+                    },
+                    "fragment": {
+                        "paragraph": "6"
+                    }
+                },
+                {
+                    "text": "§ 70 Absatz 2",
+                    "start": 628,
+                    "end": 641,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00070"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00045",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 153 der Strafprozeßordnung",
+                    "start": 108,
+                    "end": 136,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00153"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00045",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 10 Abs. 1 Satz 3 Nr. 4, 7 und 9",
+                    "start": 72,
+                    "end": 105,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00010"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ],
+                        "numbers": [
+                            "4",
+                            "7",
+                            "9"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 11 Abs. 3",
+                    "start": 526,
+                    "end": 537,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 15 Abs. 3 Satz 2",
+                    "start": 542,
+                    "end": 560,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00015"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 47 Abs. 3",
+                    "start": 584,
+                    "end": 595,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00047"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00046",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 200 Abs. 2 der Strafprozeßordnung",
+                    "start": 87,
+                    "end": 122,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00200"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-46a",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 38 Absatz 7",
+                    "start": 25,
+                    "end": 38,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00038"
+                    },
+                    "fragment": {
+                        "paragraph": "7"
+                    }
+                },
+                {
+                    "text": "§ 38 Absatz 3",
+                    "start": 123,
+                    "end": 136,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00038"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00047",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 153 der Strafprozeßordnung",
+                    "start": 24,
+                    "end": 52,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00153"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00047",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Abs. 2",
+                    "start": 41,
+                    "end": 52,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00047",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Abs. 3 Satz 1",
+                    "start": 111,
+                    "end": 129,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00047",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Abs. 3",
+                    "start": 474,
+                    "end": 485,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 15 Abs. 3 Satz 2",
+                    "start": 490,
+                    "end": 508,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00015"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-47a",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 103 Abs. 2 Satz 2, 3",
+                    "start": 207,
+                    "end": 229,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00103"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2",
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00050",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 38 Absatz 7 Satz 1",
+                    "start": 307,
+                    "end": 327,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00038"
+                    },
+                    "fragment": {
+                        "paragraph": "7",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00051",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 69",
+                    "start": 138,
+                    "end": 142,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00069"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-51a",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 68 Nummer 5",
+                    "start": 91,
+                    "end": 104,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00068"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00055",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Nr. 2",
+                    "start": 542,
+                    "end": 552,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00012"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00055",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 356a der Strafprozessordnung",
+                    "start": 184,
+                    "end": 214,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-356a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00057",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 23",
+                    "start": 32,
+                    "end": 36,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00023"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00057",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 267 Abs. 3 Satz 4 der Strafprozeßordnung",
+                    "start": 24,
+                    "end": 66,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00267"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00058",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26",
+                    "start": 226,
+                    "end": 230,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00026"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00058",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 453c der Strafprozeßordnung",
+                    "start": 73,
+                    "end": 102,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-453c"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00058",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 42 Abs. 3 Satz 2",
+                    "start": 186,
+                    "end": 204,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00042"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00059",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16a",
+                    "start": 216,
+                    "end": 221,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-16a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00059",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22",
+                    "start": 59,
+                    "end": 63,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00022"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 24",
+                    "start": 100,
+                    "end": 104,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00024"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 24 Abs. 2",
+                    "start": 170,
+                    "end": 181,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 23",
+                    "start": 217,
+                    "end": 221,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00023"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00059",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26 Abs. 1",
+                    "start": 52,
+                    "end": 63,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00026"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00059",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26a",
+                    "start": 34,
+                    "end": 39,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-26a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00061",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 21 Absatz 1 Satz 1",
+                    "start": 95,
+                    "end": 115,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00021"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00061",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61a Absatz 1",
+                    "start": 165,
+                    "end": 179,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-61a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00061",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 21 Absatz 1 Satz 1",
+                    "start": 153,
+                    "end": 173,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00021"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00061",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16a",
+                    "start": 49,
+                    "end": 54,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-16a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-61b",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61a Absatz 1",
+                    "start": 117,
+                    "end": 131,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-61a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 23 Absatz 1 Satz 1 bis 3",
+                    "start": 214,
+                    "end": 240,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00023"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1",
+                            "3"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 58 Absatz 1 Satz 1, 2 und 4",
+                    "start": 907,
+                    "end": 936,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00058"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1",
+                            "2",
+                            "4"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 59 Absatz 2 und 5",
+                    "start": 958,
+                    "end": 977,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00059"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 60",
+                    "start": 1013,
+                    "end": 1017,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00060"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-61b",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61a Absatz 1",
+                    "start": 33,
+                    "end": 47,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-61a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 453c der Strafprozessordnung",
+                    "start": 182,
+                    "end": 212,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-453c"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 58 Absatz 2 und 3 Satz 1",
+                    "start": 217,
+                    "end": 243,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00058"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-61b",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22",
+                    "start": 265,
+                    "end": 269,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00022"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-61b",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16a",
+                    "start": 356,
+                    "end": 361,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-16a"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 61 Absatz 3 Satz 1",
+                    "start": 378,
+                    "end": 398,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00061"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 26 Absatz 3 Satz 3",
+                    "start": 406,
+                    "end": 426,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00026"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00062",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 267 Abs. 3 Satz 4 der Strafprozeßordnung",
+                    "start": 170,
+                    "end": 212,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00267"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00062",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30 Abs. 1",
+                    "start": 117,
+                    "end": 128,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00062",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 58 Abs. 1 Satz 1, 2 und 4",
+                    "start": 119,
+                    "end": 146,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00058"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1",
+                            "2",
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00063",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 62 Abs. 2",
+                    "start": 86,
+                    "end": 97,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00062"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 62 Abs. 3",
+                    "start": 177,
+                    "end": 188,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00062"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00063",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 59 Abs. 2 und 5",
+                    "start": 16,
+                    "end": 33,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00059"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00064",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 60",
+                    "start": 0,
+                    "end": 4,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00060"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00065",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Abs. 2, 3",
+                    "start": 54,
+                    "end": 68,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 15 Abs. 3",
+                    "start": 85,
+                    "end": 96,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00015"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 10 Abs. 1 Satz 3 Nr. 5",
+                    "start": 292,
+                    "end": 316,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00010"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ],
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 10 Abs. 1 Satz 3 Nr. 6",
+                    "start": 357,
+                    "end": 381,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00010"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ],
+                        "numbers": [
+                            "6"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 42 Abs. 3 Satz 2",
+                    "start": 730,
+                    "end": 748,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00042"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00066",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 31",
+                    "start": 66,
+                    "end": 70,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00031"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 31 Abs. 3",
+                    "start": 360,
+                    "end": 371,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00031"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00067",
+            "element_path": [
+                2,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 51 Absatz 2",
+                    "start": 94,
+                    "end": 107,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00051"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-67a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70a",
+                    "start": 44,
+                    "end": 49,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-67a",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67 Absatz 4 Satz 1 oder 2",
+                    "start": 241,
+                    "end": 268,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00067"
+                    },
+                    "fragment": {
+                        "paragraph": "4",
+                        "sentences": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-67a",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70a",
+                    "start": 396,
+                    "end": 401,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-67a",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67 Absatz 4",
+                    "start": 90,
+                    "end": 103,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00067"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00068",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 51 Abs. 2",
+                    "start": 63,
+                    "end": 74,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00051"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 51 Abs. 4 Satz 2",
+                    "start": 219,
+                    "end": 237,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00051"
+                    },
+                    "fragment": {
+                        "paragraph": "4",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00068",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 73",
+                    "start": 80,
+                    "end": 84,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00073"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-68a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Absatz 2 oder 3",
+                    "start": 422,
+                    "end": 442,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-68a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 141 Absatz 2 Satz 2 der Strafprozessordnung",
+                    "start": 0,
+                    "end": 45,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00141"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-68b",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 68a Absatz 1",
+                    "start": 15,
+                    "end": 29,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-68a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00070",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 114e der Strafprozessordnung",
+                    "start": 432,
+                    "end": 462,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-114e"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-70a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67a",
+                    "start": 17,
+                    "end": 22,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-67a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-70a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 68",
+                    "start": 43,
+                    "end": 47,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00068"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 141 der Strafprozessordnung",
+                    "start": 66,
+                    "end": 95,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00141"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 68a",
+                    "start": 104,
+                    "end": 109,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-68a"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 70c Absatz 4",
+                    "start": 165,
+                    "end": 179,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70c"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-70a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 48",
+                    "start": 17,
+                    "end": 21,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00048"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-70a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70c Absatz 2 Satz 4",
+                    "start": 8,
+                    "end": 29,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70c"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-70a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67 Absatz 3",
+                    "start": 20,
+                    "end": 33,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00067"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-70a",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 50 Absatz 1",
+                    "start": 90,
+                    "end": 103,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00050"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 51 Absatz 1",
+                    "start": 112,
+                    "end": 125,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00051"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-70a",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 89c",
+                    "start": 17,
+                    "end": 22,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-89c"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-70a",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70b",
+                    "start": 0,
+                    "end": 5,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70b"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 168b Absatz 3 der Strafprozessordnung",
+                    "start": 26,
+                    "end": 65,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-168b"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-70a",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 114b der Strafprozessordnung",
+                    "start": 71,
+                    "end": 101,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-114b"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-70c",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 136 Absatz 4 Satz 2 der Strafprozessordnung",
+                    "start": 304,
+                    "end": 349,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00136"
+                    },
+                    "fragment": {
+                        "paragraph": "4",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 58a Absatz 2 und 3 der Strafprozessordnung",
+                    "start": 510,
+                    "end": 554,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-58a"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-70c",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 58 Absatz 2 der Strafprozessordnung",
+                    "start": 127,
+                    "end": 164,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00058"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 68b",
+                    "start": 308,
+                    "end": 313,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-68b"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00072",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 112 Abs. 1 Satz 2 der Strafprozeßordnung",
+                    "start": 223,
+                    "end": 265,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00112"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00072",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 71 Abs. 2",
+                    "start": 154,
+                    "end": 165,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00071"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-72a",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 128 der Strafprozeßordnung",
+                    "start": 336,
+                    "end": 364,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00128"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00076",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Nr. 1",
+                    "start": 243,
+                    "end": 253,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00012"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00077",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Nr. 2",
+                    "start": 180,
+                    "end": 190,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00012"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00078",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Nr. 2",
+                    "start": 161,
+                    "end": 171,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00012"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00078",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 50",
+                    "start": 255,
+                    "end": 259,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00050"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 70",
+                    "start": 409,
+                    "end": 413,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00070"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 70a",
+                    "start": 455,
+                    "end": 460,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00080",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 239b des Strafgesetzbuches",
+                    "start": 142,
+                    "end": 170,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-239b"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00080",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 177 Absatz 6 des Strafgesetzbuches",
+                    "start": 57,
+                    "end": 93,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00177"
+                    },
+                    "fragment": {
+                        "paragraph": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00080",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 251 des Strafgesetzbuches",
+                    "start": 26,
+                    "end": 53,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00251"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 255 des Strafgesetzbuches",
+                    "start": 89,
+                    "end": 116,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00255"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-81a",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 275a der Strafprozessordnung",
+                    "start": 111,
+                    "end": 141,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-275a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00082",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12",
+                    "start": 52,
+                    "end": 56,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00012"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00082",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 7 Abs. 2 und 4",
+                    "start": 18,
+                    "end": 34,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00007"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00084",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 85",
+                    "start": 90,
+                    "end": 94,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00085"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00085",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 90 Abs. 2 Satz 2",
+                    "start": 132,
+                    "end": 150,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00090"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00085",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61 Nr. 1 oder 2 des Strafgesetzbuches",
+                    "start": 97,
+                    "end": 136,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00061"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00085",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 451 Abs. 3 der Strafprozeßordnung",
+                    "start": 77,
+                    "end": 112,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00451"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00086",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16 Abs. 3",
+                    "start": 99,
+                    "end": 110,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00016"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00087",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 450 der Strafprozeßordnung",
+                    "start": 63,
+                    "end": 91,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00450"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00087",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16a",
+                    "start": 127,
+                    "end": 132,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-16a"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 16a",
+                    "start": 260,
+                    "end": 265,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-16a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00087",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26 Absatz 1",
+                    "start": 43,
+                    "end": 56,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00026"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00087",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30 Absatz 1 Satz 1",
+                    "start": 85,
+                    "end": 105,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00087",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61a Absatz 1",
+                    "start": 75,
+                    "end": 89,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-61a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00088",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22 Abs. 1, 2 Satz 1 und 2",
+                    "start": 107,
+                    "end": 134,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00022"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 60",
+                    "start": 333,
+                    "end": 337,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00060"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00089",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61a Absatz 1",
+                    "start": 156,
+                    "end": 170,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-61a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-89a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 454b Absatz 4 der Strafprozeßordnung",
+                    "start": 645,
+                    "end": 683,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-454b"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-89a",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 85 Abs. 6",
+                    "start": 34,
+                    "end": 45,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00085"
+                    },
+                    "fragment": {
+                        "paragraph": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00092",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61 Nr. 1 und 2 des Strafgesetzbuches",
+                    "start": 218,
+                    "end": 256,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00061"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 67 Absatz 1, 2 und 5",
+                    "start": 455,
+                    "end": 477,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00067"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 67a Absatz 1",
+                    "start": 482,
+                    "end": 496,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-67a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00092",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 121",
+                    "start": 35,
+                    "end": 40,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00121"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 74",
+                    "start": 102,
+                    "end": 106,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00074"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00092",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 89b Abs. 1",
+                    "start": 29,
+                    "end": 41,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-89b"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00093",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67 Absatz 1, 2 und 5",
+                    "start": 760,
+                    "end": 782,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00067"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 67a Absatz 1, 3 und 5",
+                    "start": 789,
+                    "end": 812,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-67a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-93a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61 Nr. 2 des Strafgesetzbuches",
+                    "start": 18,
+                    "end": 50,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00061"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00102",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 59 Abs. 1",
+                    "start": 470,
+                    "end": 481,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00059"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00103",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 270 Abs. 1 Satz 2 der Strafprozeßordnung",
+                    "start": 589,
+                    "end": 631,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00270"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 209a der Strafprozeßordnung",
+                    "start": 646,
+                    "end": 675,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-209a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 43",
+                    "start": 45,
+                    "end": 49,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00043"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 48 Absatz 3 Satz 2",
+                    "start": 35,
+                    "end": 55,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00048"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 54",
+                    "start": 19,
+                    "end": 23,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00054"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                9,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 50 Absatz 2",
+                    "start": 98,
+                    "end": 111,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00050"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 51 Absatz 2 bis 7",
+                    "start": 113,
+                    "end": 132,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00051"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                11,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70",
+                    "start": 34,
+                    "end": 38,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00070"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                12,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70a",
+                    "start": 36,
+                    "end": 41,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                13,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70b",
+                    "start": 13,
+                    "end": 18,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70b"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                14,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70c",
+                    "start": 34,
+                    "end": 39,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70c"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                15,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 73",
+                    "start": 35,
+                    "end": 39,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00073"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                16,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 74",
+                    "start": 21,
+                    "end": 25,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00074"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                18,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 81a",
+                    "start": 67,
+                    "end": 72,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-81a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67 Absatz 1 und 2",
+                    "start": 201,
+                    "end": 220,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00067"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 53 Satz 2",
+                    "start": 128,
+                    "end": 139,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00053"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                4,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30",
+                    "start": 194,
+                    "end": 198,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00030"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00104",
+            "element_path": [
+                4,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 61a",
+                    "start": 183,
+                    "end": 188,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-61a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00105",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 31 Abs. 2 Satz 1",
+                    "start": 0,
+                    "end": 18,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00031"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00106",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Abs. 1 des Strafgesetzbuches",
+                    "start": 137,
+                    "end": 170,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00106",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 251 des Strafgesetzbuches",
+                    "start": 5,
+                    "end": 32,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00251"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 255 des Strafgesetzbuches",
+                    "start": 68,
+                    "end": 95,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00255"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00106",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 66 Absatz 3 des Strafgesetzbuches",
+                    "start": 32,
+                    "end": 67,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00066"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 66 Absatz 1 Satz 1 Nummer 4 des Strafgesetzbuches",
+                    "start": 106,
+                    "end": 157,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00066"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00106",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67a Absatz 2 bis 4 des Strafgesetzbuches",
+                    "start": 752,
+                    "end": 794,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-67a"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00106",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 66a Absatz 3 Satz 1 des Strafgesetzbuches",
+                    "start": 301,
+                    "end": 344,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-66a"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00106",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67d Abs. 6 des Strafgesetzbuches",
+                    "start": 138,
+                    "end": 172,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-67d"
+                    },
+                    "fragment": {
+                        "paragraph": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00106",
+            "element_path": [
+                6,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 63 des Strafgesetzbuches",
+                    "start": 39,
+                    "end": 65,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00063"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 63 des Strafgesetzbuches",
+                    "start": 216,
+                    "end": 242,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00063"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00108",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 25",
+                    "start": 143,
+                    "end": 147,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00025"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00108",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 24 Abs. 2",
+                    "start": 101,
+                    "end": 112,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 106 Absatz 3, 4, 7",
+                    "start": 359,
+                    "end": 379,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00106"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 33b",
+                    "start": 497,
+                    "end": 502,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-33b"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00109",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70a",
+                    "start": 346,
+                    "end": 351,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-70a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00109",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 105",
+                    "start": 40,
+                    "end": 45,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00105"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 66",
+                    "start": 186,
+                    "end": 190,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00066"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 105 Abs. 2",
+                    "start": 288,
+                    "end": 300,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00105"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 55 Abs. 1 und 2",
+                    "start": 319,
+                    "end": 336,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00055"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 74",
+                    "start": 456,
+                    "end": 460,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00074"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 472a der Strafprozessordnung",
+                    "start": 536,
+                    "end": 566,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-472a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00109",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 407 Abs. 2 Satz 2 der Strafprozeßordnung",
+                    "start": 54,
+                    "end": 96,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00407"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00110",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 82 Abs. 1",
+                    "start": 84,
+                    "end": 95,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00082"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 105",
+                    "start": 192,
+                    "end": 197,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00105"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00110",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 89c Absatz 1 und 3",
+                    "start": 80,
+                    "end": 100,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-89c"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-00112",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 104 Abs. 1",
+                    "start": 103,
+                    "end": 115,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00104"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-112a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12",
+                    "start": 33,
+                    "end": 37,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00012"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-112a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 25 Satz 2",
+                    "start": 105,
+                    "end": 116,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00025"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-112c",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 83",
+                    "start": 111,
+                    "end": 115,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00083"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-112d",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 112c Absatz 1",
+                    "start": 157,
+                    "end": 172,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-112c"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "jgg-112e",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 104",
+                    "start": 109,
+                    "end": 114,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00104"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "jgg-00121",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 33b Absatz 2",
+                    "start": 91,
+                    "end": 105,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-33b"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        }
+    ]
+}

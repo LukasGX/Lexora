@@ -4,6 +4,7 @@ async function loadLaws() {
 	});
 
 	const laws = await response.json();
+	console.table(laws);
 
 	const container = document.getElementById("law-books");
 	container.innerHTML = "";

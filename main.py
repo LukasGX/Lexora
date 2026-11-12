@@ -83,16 +83,16 @@ async def book(request: Request, book: str):
     )
 
 @app.get("/law/{id}")
-async def get_law(request: Request, id: str):
+async def get_law(request: Request, id: str, highlight: str | None = None):
     splitted = id.split("-", 2)
     book = splitted[0]
 
     file = Path(LAWS_BASE_DIR, book + ".json")
 
     if not file.is_file():
-        raise HTTPException(detail=f"Law not found", status_code=404)
+        raise HTTPException(detail="Law not found", status_code=404)
 
-    with open(file, "r") as f:
+    with open(file, "r", encoding="utf-8") as f:
         content = json.load(f)
 
     date = datetime.strptime(content["updated"], "%Y-%m-%d")
@@ -106,11 +106,27 @@ async def get_law(request: Request, id: str):
     if law is None:
         raise HTTPException(detail="Law not found", status_code=404)
 
+    # Load cross-references
+    links_file = Path(LAWS_BASE_DIR, book + ".link.json")
+    law_links = []
+
+    if links_file.is_file():
+        with open(links_file, "r", encoding="utf-8") as f:
+            link_data = json.load(f)
+
+        law_links = [
+            link
+            for link in link_data.get("links", [])
+            if link["source"] == id
+        ]
+
     return templates.TemplateResponse(
         request=request,
         name="law.html",
         context={
             "law": law,
+            "highlight": highlight,
+            "law_links": law_links,
             "book_id": content["id"],
             "book_abbr": content["abbr"],
             "book_prefix": content["prefix"],
@@ -124,6 +140,9 @@ async def get_all_laws(request: Request):
     books = []
 
     for file in LAWS_BASE_DIR.rglob("*.json"):
+        if file.name.endswith(".link.json"):
+            continue
+
         with open(file, "r") as f:
             content = json.load(f)
             books.append(content)

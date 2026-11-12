@@ -1,0 +1,2613 @@
+{
+    "version": 1,
+    "book": "gg",
+    "links": [
+        {
+            "source": "gg-eingangsformel",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 145 Abs. 3",
+                    "start": 542,
+                    "end": 560,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00145"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00009",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 87a Abs. 4",
+                    "start": 332,
+                    "end": 350,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-87a"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "Artikel 91",
+                    "start": 355,
+                    "end": 365,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00091"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00015",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 14 Abs. 3 Satz 3 und 4",
+                    "start": 262,
+                    "end": 292,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00014"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "3",
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-17a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 5 Abs. 1 Satz 1",
+                    "start": 260,
+                    "end": 283,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00005"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "Artikel 8",
+                    "start": 343,
+                    "end": 352,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00008"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 17",
+                    "start": 378,
+                    "end": 388,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00017"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-17a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 11",
+                    "start": 144,
+                    "end": 154,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00011"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 13",
+                    "start": 195,
+                    "end": 205,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00013"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00018",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 5 Abs. 1",
+                    "start": 72,
+                    "end": 88,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00005"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "Artikel 5 Abs. 3",
+                    "start": 109,
+                    "end": 125,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00005"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "Artikel 8",
+                    "start": 154,
+                    "end": 163,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00008"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 9",
+                    "start": 192,
+                    "end": 201,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00009"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 10",
+                    "start": 246,
+                    "end": 256,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00010"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 14",
+                    "start": 273,
+                    "end": 283,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00014"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 16a",
+                    "start": 305,
+                    "end": 316,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-16a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00019",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 10 Abs. 2 Satz 2",
+                    "start": 196,
+                    "end": 220,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00010"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00023",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 79 Abs. 2 und 3",
+                    "start": 704,
+                    "end": 727,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00079"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00023",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 42 Abs. 2 Satz 1",
+                    "start": 506,
+                    "end": 530,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00042"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "Artikel 52 Abs. 3 Satz 1",
+                    "start": 535,
+                    "end": 559,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00052"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00045",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 23",
+                    "start": 144,
+                    "end": 154,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00023"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-45a",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 44 Abs. 1",
+                    "start": 0,
+                    "end": 17,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00044"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-45c",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 17",
+                    "start": 76,
+                    "end": 86,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00017"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00046",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 18",
+                    "start": 187,
+                    "end": 197,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00018"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00046",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 18",
+                    "start": 47,
+                    "end": 57,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00018"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00052",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 51 Abs. 2",
+                    "start": 222,
+                    "end": 239,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00051"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-53a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 43 Abs. 1",
+                    "start": 166,
+                    "end": 183,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00043"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00058",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 63",
+                    "start": 270,
+                    "end": 280,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00063"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 69 Abs. 3",
+                    "start": 304,
+                    "end": 321,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00069"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00064",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 56",
+                    "start": 97,
+                    "end": 107,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00056"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00074",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                13,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 73",
+                    "start": 62,
+                    "end": 72,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00073"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00076",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 23",
+                    "start": 845,
+                    "end": 855,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00023"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 24",
+                    "start": 861,
+                    "end": 871,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00024"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00076",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 23",
+                    "start": 597,
+                    "end": 607,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00023"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 24",
+                    "start": 613,
+                    "end": 623,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00024"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00078",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 77 Abs. 2",
+                    "start": 102,
+                    "end": 119,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00077"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00084",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 72 Abs. 3 Satz 3",
+                    "start": 558,
+                    "end": 582,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00072"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-87a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 109 Absatz 3",
+                    "start": 227,
+                    "end": 247,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00109"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "Artikel 115 Absatz 2",
+                    "start": 252,
+                    "end": 272,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00115"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-87b",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 85 Abs. 2 Satz 1",
+                    "start": 737,
+                    "end": 761,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00085"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00094",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 20 Absatz 4, 33, 38, 101, 103 und 104",
+                    "start": 170,
+                    "end": 215,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00020"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00094",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 28",
+                    "start": 118,
+                    "end": 128,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00028"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00094",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 72 Absatz 2",
+                    "start": 238,
+                    "end": 257,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00072"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "Artikel 72 Absatz 4",
+                    "start": 517,
+                    "end": 536,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00072"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "Artikel 125a Absatz 2 Satz 2",
+                    "start": 547,
+                    "end": 575,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-125a"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "Artikel 72 Absatz 4",
+                    "start": 649,
+                    "end": 668,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00072"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "Artikel 125a Absatz 2 Satz 2",
+                    "start": 679,
+                    "end": 707,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-125a"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00096",
+            "element_path": [
+                4,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 26 Abs. 1",
+                    "start": 127,
+                    "end": 144,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00026"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00098",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 74 Abs. 1 Nr. 27",
+                    "start": 98,
+                    "end": 122,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00074"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "27"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00099",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 95 Abs. 1",
+                    "start": 132,
+                    "end": 149,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00095"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00100",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 25",
+                    "start": 177,
+                    "end": 187,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00025"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-104c",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 104b Absatz 2 Satz 1 bis 3, 5, 6",
+                    "start": 285,
+                    "end": 325,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-104b"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1",
+                            "3",
+                            "5",
+                            "6"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-104d",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 104b Absatz 2 Satz 1 bis 5",
+                    "start": 175,
+                    "end": 209,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-104b"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1",
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-106a",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 107 Abs. 2",
+                    "start": 274,
+                    "end": 292,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00107"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00107",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 91b",
+                    "start": 1285,
+                    "end": 1296,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-91b"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00108",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 85 Abs. 3 und 4",
+                    "start": 131,
+                    "end": 154,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00085"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00109",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 115",
+                    "start": 608,
+                    "end": 619,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00115"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00109",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 104",
+                    "start": 89,
+                    "end": 100,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00104"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00110",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 115",
+                    "start": 341,
+                    "end": 352,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00115"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00113",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 78",
+                    "start": 20,
+                    "end": 30,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00078"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-115a",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 82",
+                    "start": 50,
+                    "end": 60,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00082"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-115c",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 14 Abs. 3 Satz 2",
+                    "start": 32,
+                    "end": 56,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00014"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-115c",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 104 Abs. 2 Satz 3",
+                    "start": 35,
+                    "end": 60,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00104"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-115d",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 76 Abs. 2",
+                    "start": 74,
+                    "end": 91,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00076"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "Artikel 77 Abs. 1 Satz 2",
+                    "start": 93,
+                    "end": 117,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00077"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "Artikel 78",
+                    "start": 136,
+                    "end": 146,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00078"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 82 Abs. 1",
+                    "start": 151,
+                    "end": 168,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00082"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-115d",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 115a Abs. 3 Satz 2",
+                    "start": 36,
+                    "end": 62,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-115a"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-115e",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 23 Abs. 1 Satz 2",
+                    "start": 183,
+                    "end": 207,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00023"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "Artikel 24 Abs. 1",
+                    "start": 209,
+                    "end": 226,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "Artikel 29",
+                    "start": 232,
+                    "end": 242,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00029"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-115k",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 115c",
+                    "start": 251,
+                    "end": 263,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-115c"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00117",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 3 Abs. 2",
+                    "start": 8,
+                    "end": 24,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-120a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 87 Abs. 3 Satz 2",
+                    "start": 0,
+                    "end": 24,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00087"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-125b",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 72 Abs. 3 Satz 1",
+                    "start": 307,
+                    "end": 331,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00072"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-125c",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 104a Abs. 4",
+                    "start": 9,
+                    "end": 28,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-104a"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "Artikel 104a Absatz 4 des Grundgesetzes",
+                    "start": 424,
+                    "end": 463,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-104a"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "Artikel 104a Absatz 4",
+                    "start": 598,
+                    "end": 619,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-104a"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "Artikel 104a Absatz 4",
+                    "start": 839,
+                    "end": 860,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-104a"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "Artikel 104b Absatz 2 Satz 4",
+                    "start": 1060,
+                    "end": 1088,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-104b"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-125c",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 104b Absatz 2 Satz 5",
+                    "start": 0,
+                    "end": 28,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-104b"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00127",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 124",
+                    "start": 152,
+                    "end": 163,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00124"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00132",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 19 Abs. 4",
+                    "start": 42,
+                    "end": 59,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00019"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-135a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 134 Abs. 4",
+                    "start": 13,
+                    "end": 31,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00134"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "Artikel 135 Abs. 5",
+                    "start": 36,
+                    "end": 54,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00135"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-135a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 89",
+                    "start": 145,
+                    "end": 155,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00089"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00137",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 41 Abs. 2",
+                    "start": 40,
+                    "end": 57,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00041"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00140",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 136",
+                    "start": 21,
+                    "end": 32,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00136"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-00141",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 7 Abs. 3 Satz 1",
+                    "start": 0,
+                    "end": 23,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00007"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00143",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 3",
+                    "start": 16,
+                    "end": 25,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 19 Abs. 2",
+                    "start": 336,
+                    "end": 353,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00019"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "Artikel 79 Abs. 3",
+                    "start": 386,
+                    "end": 403,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00079"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00143",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 41",
+                    "start": 36,
+                    "end": 46,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00041"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 189,
+                    "end": 198,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-143a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 87e Abs. 5",
+                    "start": 196,
+                    "end": 214,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-87e"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-143d",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 109",
+                    "start": 0,
+                    "end": 11,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00109"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 109",
+                    "start": 121,
+                    "end": 132,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00109"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 109 Absatz 3 Satz 5",
+                    "start": 629,
+                    "end": 656,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00109"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "5"
+                        ]
+                    }
+                },
+                {
+                    "text": "Artikel 115 Absatz 2 Satz 2",
+                    "start": 975,
+                    "end": 1002,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00115"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-143e",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 90 Absatz 2",
+                    "start": 43,
+                    "end": 62,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00090"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "Artikel 90 Absatz 2 und 4",
+                    "start": 296,
+                    "end": 321,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00090"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-143e",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 90 Absatz 4",
+                    "start": 105,
+                    "end": 124,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00090"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-143e",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 90 Absatz 4",
+                    "start": 272,
+                    "end": 291,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00090"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "Artikel 143e Absatz 2",
+                    "start": 297,
+                    "end": 318,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-143e"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-143f",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 143d",
+                    "start": 0,
+                    "end": 12,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-143d"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 107 Absatz 2",
+                    "start": 113,
+                    "end": 133,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00107"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-143g",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 107",
+                    "start": 139,
+                    "end": 150,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00107"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-143h",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 109 Absatz 3",
+                    "start": 422,
+                    "end": 442,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00109"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "Artikel 115 Absatz 2",
+                    "start": 447,
+                    "end": 467,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00115"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-00144",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 23",
+                    "start": 58,
+                    "end": 68,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00023"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 38",
+                    "start": 211,
+                    "end": 221,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00038"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 50",
+                    "start": 259,
+                    "end": 269,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00050"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 3",
+                    "start": 74,
+                    "end": 83,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 4",
+                    "start": 554,
+                    "end": 563,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00004"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 4",
+                    "start": 650,
+                    "end": 659,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00004"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Art. 23",
+                    "start": 733,
+                    "end": 740,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00023"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 5",
+                    "start": 762,
+                    "end": 771,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00005"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "Artikel 6",
+                    "start": 0,
+                    "end": 9,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00006"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 131 des Grundgesetzes",
+                    "start": 29,
+                    "end": 58,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00131"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 74,
+                    "end": 83,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 7",
+                    "start": 133,
+                    "end": 142,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00007"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 232,
+                    "end": 241,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 443,
+                    "end": 452,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                0,
+                "elements",
+                3,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 106 Abs. 5 des Grundgesetzes",
+                    "start": 93,
+                    "end": 129,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00106"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                0,
+                "elements",
+                3,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 106 Abs. 7 des Grundgesetzes",
+                    "start": 41,
+                    "end": 77,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00106"
+                    },
+                    "fragment": {
+                        "paragraph": "7"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                0,
+                "elements",
+                4
+            ],
+            "references": [
+                {
+                    "text": "Artikel 107 des Grundgesetzes",
+                    "start": 4,
+                    "end": 33,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00107"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 49,
+                    "end": 58,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 212,
+                    "end": 221,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 107 Abs. 2 des Grundgesetzes",
+                    "start": 343,
+                    "end": 379,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00107"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 1156,
+                    "end": 1165,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 91a",
+                    "start": 1209,
+                    "end": 1220,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-91a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                0,
+                "elements",
+                6
+            ],
+            "references": [
+                {
+                    "text": "Artikel 3",
+                    "start": 160,
+                    "end": 169,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 3",
+                    "start": 74,
+                    "end": 83,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 4",
+                    "start": 554,
+                    "end": 563,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00004"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 4",
+                    "start": 650,
+                    "end": 659,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00004"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Art. 23",
+                    "start": 733,
+                    "end": 740,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00023"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 5",
+                    "start": 762,
+                    "end": 771,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00005"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                1,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "Artikel 6",
+                    "start": 0,
+                    "end": 9,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00006"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 131 des Grundgesetzes",
+                    "start": 29,
+                    "end": 58,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00131"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 74,
+                    "end": 83,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 7",
+                    "start": 133,
+                    "end": 142,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00007"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 232,
+                    "end": 241,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 3",
+                    "start": 117,
+                    "end": 126,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 106 Abs. 5 des Grundgesetzes",
+                    "start": 93,
+                    "end": 129,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00106"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 106 Abs. 7 des Grundgesetzes",
+                    "start": 41,
+                    "end": 77,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00106"
+                    },
+                    "fragment": {
+                        "paragraph": "7"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 107 des Grundgesetzes",
+                    "start": 0,
+                    "end": 29,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00107"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 45,
+                    "end": 54,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 3",
+                    "start": 208,
+                    "end": 217,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 107 Abs. 2 des Grundgesetzes",
+                    "start": 339,
+                    "end": 375,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00107"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 3",
+                    "start": 7,
+                    "end": 16,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "Artikel 91a",
+                    "start": 60,
+                    "end": 71,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-91a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "gg-anhang-ev",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 3",
+                    "start": 156,
+                    "end": 165,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        }
+    ]
+}

@@ -41,8 +41,8 @@
 
 				<section class="law-content">
 					{% from "include/law_element.html" import render_element %}
-					{% for element in law.contents %} {{ render_element(element)
-					}} {% endfor %}
+					{% for element in law.contents %} {{ render_element(element,
+					[loop.index0], law_links, highlight) }} {% endfor %}
 				</section>
 			</div>
 		</main>

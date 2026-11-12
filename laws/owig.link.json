@@ -1,0 +1,4976 @@
+{
+    "version": 1,
+    "book": "owig",
+    "links": [
+        {
+            "source": "owig-00012",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3 Satz 1 des Jugendgerichtsgesetzes",
+                    "start": 152,
+                    "end": 189,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00003"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00014",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 9 Abs. 1",
+                    "start": 154,
+                    "end": 164,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00009"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00023",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22 Abs. 2 Nr. 1",
+                    "start": 83,
+                    "end": 100,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00022"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00024",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22 Abs. 2 Nr. 1",
+                    "start": 38,
+                    "end": 55,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00022"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 23",
+                    "start": 64,
+                    "end": 68,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00023"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 23",
+                    "start": 226,
+                    "end": 230,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00023"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00025",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26 Abs. 2",
+                    "start": 331,
+                    "end": 342,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00026"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 28",
+                    "start": 344,
+                    "end": 348,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00028"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00025",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18",
+                    "start": 53,
+                    "end": 57,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00018"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00026",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22 Abs. 2 Nr. 2",
+                    "start": 173,
+                    "end": 190,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00022"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 28 Abs. 2 Nr. 1 oder 2",
+                    "start": 311,
+                    "end": 335,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00028"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00026",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 136 des Bürgerlichen Gesetzbuches",
+                    "start": 91,
+                    "end": 126,
+                    "target": {
+                        "book": "bgb",
+                        "law": "bgb-00136"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00027",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22 Abs. 2 Nr. 2",
+                    "start": 30,
+                    "end": 47,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00022"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00027",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 47",
+                    "start": 40,
+                    "end": 44,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00047"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00029",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 9 Abs. 3",
+                    "start": 0,
+                    "end": 10,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00009"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-29a",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18",
+                    "start": 101,
+                    "end": 105,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00018"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00030",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 123 Absatz 1",
+                    "start": 100,
+                    "end": 114,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00123"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00030",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 17 Abs. 4",
+                    "start": 0,
+                    "end": 11,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "§ 18",
+                    "start": 16,
+                    "end": 20,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00018"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00030",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 33 Abs. 1 Satz 2",
+                    "start": 541,
+                    "end": 559,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00033"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00030",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29a",
+                    "start": 203,
+                    "end": 208,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-29a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00030",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 111e Absatz 2 der Strafprozessordnung",
+                    "start": 65,
+                    "end": 104,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-111e"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00031",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 27 Abs. 2 Satz 1 Nr. 1",
+                    "start": 118,
+                    "end": 142,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00027"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00032",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 72",
+                    "start": 93,
+                    "end": 97,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00033",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                7,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 43",
+                    "start": 81,
+                    "end": 85,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00043"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00033",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                9,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 69 Abs. 3 Satz 1",
+                    "start": 45,
+                    "end": 63,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00069"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 69 Abs. 5 Satz 1",
+                    "start": 148,
+                    "end": 166,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00069"
+                    },
+                    "fragment": {
+                        "paragraph": "5",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00033",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                11,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 72 Abs. 1 Satz 2",
+                    "start": 71,
+                    "end": 89,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00033",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 31 Abs. 3",
+                    "start": 123,
+                    "end": 134,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00031"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 32",
+                    "start": 506,
+                    "end": 510,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00032"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00038",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 37",
+                    "start": 61,
+                    "end": 65,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00037"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00039",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 38",
+                    "start": 367,
+                    "end": 371,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00038"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00039",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 68",
+                    "start": 63,
+                    "end": 67,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00039",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 68",
+                    "start": 10,
+                    "end": 14,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00043",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 40",
+                    "start": 48,
+                    "end": 52,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00040"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 42",
+                    "start": 131,
+                    "end": 135,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00042"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00046",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 160 Abs. 3 Satz 2 der Strafprozeßordnung",
+                    "start": 214,
+                    "end": 256,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00160"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 406e der Strafprozeßordnung",
+                    "start": 537,
+                    "end": 566,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-406e"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00046",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 81a Abs. 1 Satz 2 der Strafprozeßordnung",
+                    "start": 0,
+                    "end": 42,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-81a"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 81a Absatz 2 Satz 1 der Strafprozessordnung",
+                    "start": 217,
+                    "end": 262,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-81a"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00046",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 7 Absatz 1",
+                    "start": 5,
+                    "end": 17,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00007"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 3 Absatz 1 Satz 1 Nummer 1",
+                    "start": 112,
+                    "end": 140,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 3 Absatz 1 Satz 1 Nummer 1",
+                    "start": 271,
+                    "end": 299,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00046",
+            "element_path": [
+                3,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 81e der Strafprozeßordnung",
+                    "start": 274,
+                    "end": 302,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-81e"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00046",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 100j Absatz 1 Satz 1 Nummer 2 der Strafprozessordnung",
+                    "start": 0,
+                    "end": 55,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-100j"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 100j Absatz 2 der Strafprozessordnung",
+                    "start": 80,
+                    "end": 119,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-100j"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00046",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 70 Abs. 2 der Strafprozessordnung",
+                    "start": 168,
+                    "end": 203,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00070"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00046",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 38 des Jugendgerichtsgesetzes",
+                    "start": 101,
+                    "end": 132,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00038"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-49a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 477 Absatz 2 der Strafprozessordnung",
+                    "start": 44,
+                    "end": 82,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00477"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49a",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 480 Absatz 1 der Strafprozessordnung",
+                    "start": 96,
+                    "end": 134,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00480"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 480 Absatz 1 und 2 der Strafprozessordnung",
+                    "start": 206,
+                    "end": 250,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00480"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 14 Abs. 1 Nr. 4 bis 9",
+                    "start": 104,
+                    "end": 127,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00014"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "4",
+                            "9"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49a",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22",
+                    "start": 0,
+                    "end": 4,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00022"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 62 Abs. 1 Satz 1",
+                    "start": 166,
+                    "end": 184,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00062"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 25",
+                    "start": 218,
+                    "end": 222,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00025"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 68",
+                    "start": 306,
+                    "end": 310,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-49a",
+            "element_path": [
+                3,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Abs. 5",
+                    "start": 768,
+                    "end": 779,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00012"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49a",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 481 der Strafprozessordnung",
+                    "start": 0,
+                    "end": 29,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00481"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 481 Abs. 1 Satz 2 der Strafprozessordnung",
+                    "start": 87,
+                    "end": 130,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00481"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 482 der Strafprozessordnung",
+                    "start": 187,
+                    "end": 216,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00482"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-49b",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 474 Absatz 2 Satz 1 Nummer 1 der Strafprozessordnung",
+                    "start": 3,
+                    "end": 57,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00474"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49b",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 481 der Strafprozessordnung",
+                    "start": 44,
+                    "end": 73,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00481"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-49b",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 479 Absatz 1 der Strafprozessordnung",
+                    "start": 3,
+                    "end": 41,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00479"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49b",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 479 Absatz 3 Nummer 2 der Strafprozessordnung",
+                    "start": 3,
+                    "end": 50,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00479"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49b",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 480 Absatz 3 Satz 1 der Strafprozessordnung",
+                    "start": 0,
+                    "end": 45,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00480"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 68",
+                    "start": 183,
+                    "end": 187,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 62 Abs. 1 Satz 1",
+                    "start": 226,
+                    "end": 244,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00062"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49c",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 496 Absatz 3 der Strafprozessordnung",
+                    "start": 93,
+                    "end": 131,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00496"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49c",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 485 der Strafprozessordnung",
+                    "start": 278,
+                    "end": 307,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00485"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-49c",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 486 der Strafprozessordnung",
+                    "start": 68,
+                    "end": 97,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00486"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-49c",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 487 Abs. 1 Satz 1 der Strafprozessordnung",
+                    "start": 0,
+                    "end": 43,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00487"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 49a Abs. 3",
+                    "start": 223,
+                    "end": 235,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-49a"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 487 Abs. 2 der Strafprozessordnung",
+                    "start": 289,
+                    "end": 325,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00487"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49c",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 489 Absatz 3 Satz 2 Nummer 1 der Strafprozessordnung",
+                    "start": 139,
+                    "end": 193,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00489"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ],
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 489 Absatz 3 Satz 2 Nummer 1 bis 3 der Strafprozessordnung",
+                    "start": 275,
+                    "end": 335,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00489"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ],
+                        "numbers": [
+                            "1",
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-49d",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 498 Absatz 1 der Strafprozessordnung",
+                    "start": 128,
+                    "end": 166,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00498"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00051",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 50 Abs. 1 Satz 2",
+                    "start": 14,
+                    "end": 32,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00050"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00051",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 6 Abs. 1",
+                    "start": 0,
+                    "end": 10,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00006"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 7 Abs. 1 Satz 1 und 2",
+                    "start": 174,
+                    "end": 197,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00007"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00052",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 47 der Strafprozeßordnung",
+                    "start": 117,
+                    "end": 144,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00047"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00052",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 62",
+                    "start": 594,
+                    "end": 598,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00062"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00053",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 42",
+                    "start": 482,
+                    "end": 486,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00042"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00055",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 163a Abs. 1 der Strafprozeßordnung",
+                    "start": 0,
+                    "end": 36,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-163a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00055",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 136 Absatz 1 Satz 3 bis 5 der Strafprozeßordnung",
+                    "start": 153,
+                    "end": 203,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00136"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3",
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00057",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 56",
+                    "start": 49,
+                    "end": 53,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00056"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00057",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 56",
+                    "start": 18,
+                    "end": 22,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00056"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00058",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 57 Abs. 2",
+                    "start": 22,
+                    "end": 33,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00057"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00059",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 23",
+                    "start": 117,
+                    "end": 121,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00023"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00060",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 140 Absatz 2 der Strafprozeßordnung",
+                    "start": 83,
+                    "end": 120,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00140"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 146a Abs. 1 Satz 1, 2 der Strafprozeßordnung",
+                    "start": 315,
+                    "end": 361,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-146a"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00062",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 68",
+                    "start": 37,
+                    "end": 41,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00063",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 42",
+                    "start": 77,
+                    "end": 81,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00042"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00063",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 40",
+                    "start": 49,
+                    "end": 53,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00040"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 42",
+                    "start": 59,
+                    "end": 63,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00042"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00064",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 42",
+                    "start": 48,
+                    "end": 52,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00042"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00066",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 67",
+                    "start": 83,
+                    "end": 87,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00067"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00066",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18",
+                    "start": 125,
+                    "end": 129,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00018"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00066",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 92",
+                    "start": 60,
+                    "end": 64,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00092"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00066",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 96",
+                    "start": 36,
+                    "end": 40,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00096"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00068",
+            "element_path": [
+                2,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 37 Abs. 3",
+                    "start": 248,
+                    "end": 259,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00037"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00069",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 62",
+                    "start": 274,
+                    "end": 278,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00062"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00069",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 77a Abs. 2",
+                    "start": 127,
+                    "end": 139,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-77a"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00069",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 49 Abs. 1",
+                    "start": 343,
+                    "end": 354,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00049"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 147 der Strafprozessordnung",
+                    "start": 372,
+                    "end": 401,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00147"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00071",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 77a Abs. 2",
+                    "start": 128,
+                    "end": 140,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-77a"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00071",
+            "element_path": [
+                1,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 69 Abs. 2 Satz 3",
+                    "start": 236,
+                    "end": 254,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00069"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00072",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 145a Abs. 1 und 3 der Strafprozeßordnung",
+                    "start": 385,
+                    "end": 427,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-145a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00072",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 260 Abs. 5 Satz 1 der Strafprozeßordnung",
+                    "start": 207,
+                    "end": 249,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00260"
+                    },
+                    "fragment": {
+                        "paragraph": "5",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00074",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 265 Abs. 1 und 2 der Strafprozeßordnung",
+                    "start": 390,
+                    "end": 431,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00265"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00075",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 47 Abs. 2",
+                    "start": 127,
+                    "end": 138,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00047"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00076",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 47 Abs. 2",
+                    "start": 212,
+                    "end": 223,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00047"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00076",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 63 Abs. 3",
+                    "start": 65,
+                    "end": 76,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00063"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00077",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 244 Abs. 3 der Strafprozeßordnung",
+                    "start": 129,
+                    "end": 164,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00244"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00077",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 244 Abs. 6 der Strafprozeßordnung",
+                    "start": 104,
+                    "end": 139,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00244"
+                    },
+                    "fragment": {
+                        "paragraph": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-77a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 256 der Strafprozeßordnung",
+                    "start": 220,
+                    "end": 248,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00256"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-77b",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 275 Abs. 1 Satz 2 der Strafprozeßordnung",
+                    "start": 40,
+                    "end": 82,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00275"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00078",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 243 Absatz 4 der Strafprozessordnung",
+                    "start": 0,
+                    "end": 38,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00243"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00078",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 78 Abs. 3 des Jugendgerichtsgesetzes",
+                    "start": 36,
+                    "end": 74,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00078"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00078",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 98 Abs. 1",
+                    "start": 147,
+                    "end": 158,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00098"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00079",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 72",
+                    "start": 39,
+                    "end": 43,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00079",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 72",
+                    "start": 160,
+                    "end": 164,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00079",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 72",
+                    "start": 20,
+                    "end": 24,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00079",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 80",
+                    "start": 85,
+                    "end": 89,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00080"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00079",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 72",
+                    "start": 38,
+                    "end": 42,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00079",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 342 der Strafprozeßordnung",
+                    "start": 213,
+                    "end": 241,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00342"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 72 Abs. 2 Satz 2",
+                    "start": 327,
+                    "end": 345,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00079",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 72",
+                    "start": 97,
+                    "end": 101,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 73 Abs. 3",
+                    "start": 208,
+                    "end": 219,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00073"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00079",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 354 der Strafprozeßordnung",
+                    "start": 88,
+                    "end": 116,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00354"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00080",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 79 Abs. 1 Satz 2",
+                    "start": 53,
+                    "end": 71,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00079"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00080",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 35a der Strafprozeßordnung",
+                    "start": 457,
+                    "end": 485,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-35a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-80a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 79 Abs. 1 Satz 1",
+                    "start": 150,
+                    "end": 168,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00079"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-80a",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 72",
+                    "start": 180,
+                    "end": 184,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00083",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Abs. 3, 4, 5 Satz 2",
+                    "start": 186,
+                    "end": 210,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 80",
+                    "start": 275,
+                    "end": 279,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00080"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00083",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 79 Abs. 1 Satz 2",
+                    "start": 526,
+                    "end": 544,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00079"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 79 Abs. 1 und 2",
+                    "start": 625,
+                    "end": 642,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00079"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 80",
+                    "start": 649,
+                    "end": 653,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00080"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00084",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 72",
+                    "start": 165,
+                    "end": 169,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00072"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00085",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 359 Nr. 5 der Strafprozeßordnung",
+                    "start": 117,
+                    "end": 151,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00359"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00085",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 362 der Strafprozeßordnung",
+                    "start": 96,
+                    "end": 124,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00362"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00085",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 68",
+                    "start": 74,
+                    "end": 78,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 69 Abs. 4 Satz 1",
+                    "start": 324,
+                    "end": 342,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00069"
+                    },
+                    "fragment": {
+                        "paragraph": "4",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00087",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 438 Absatz 1 und 2 der Strafprozessordnung",
+                    "start": 365,
+                    "end": 409,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00438"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 60 Satz 2",
+                    "start": 412,
+                    "end": 423,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00060"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00087",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 66 Abs. 1",
+                    "start": 102,
+                    "end": 113,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00066"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00087",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 433 der Strafprozessordnung",
+                    "start": 19,
+                    "end": 48,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00433"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 68",
+                    "start": 195,
+                    "end": 199,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 69 Abs. 4 Satz 1",
+                    "start": 317,
+                    "end": 335,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00069"
+                    },
+                    "fragment": {
+                        "paragraph": "4",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00087",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29a",
+                    "start": 123,
+                    "end": 128,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-29a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00088",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30",
+                    "start": 159,
+                    "end": 163,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00030"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 428 Absatz 2 der Strafprozeßordnung",
+                    "start": 359,
+                    "end": 396,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00428"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 60 Satz 2",
+                    "start": 399,
+                    "end": 410,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00060"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00088",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 87 Abs. 2 Satz 1 und 2",
+                    "start": 0,
+                    "end": 24,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00087"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00090",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 883 Abs. 2 und 3 der Zivilprozeßordnung",
+                    "start": 410,
+                    "end": 451,
+                    "target": {
+                        "book": "zpo",
+                        "law": "zpo-00883"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00091",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 459 der Strafprozeßordnung",
+                    "start": 145,
+                    "end": 173,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00459"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 82 Abs. 1",
+                    "start": 230,
+                    "end": 241,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00082"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 83 Abs. 2",
+                    "start": 243,
+                    "end": 254,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00083"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00092",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 90",
+                    "start": 102,
+                    "end": 106,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00090"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 91",
+                    "start": 196,
+                    "end": 200,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00091"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00093",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18",
+                    "start": 103,
+                    "end": 107,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00018"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00093",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18",
+                    "start": 102,
+                    "end": 106,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00018"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00093",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 66 Abs. 2 Nr. 2 und 3",
+                    "start": 53,
+                    "end": 76,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00066"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "2",
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00093",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18 Satz 2",
+                    "start": 32,
+                    "end": 43,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00018"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00096",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 95 Abs. 1",
+                    "start": 19,
+                    "end": 30,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00095"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00096",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 66 Abs. 2 Nr. 2",
+                    "start": 61,
+                    "end": 78,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00066"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00096",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 66 Abs. 2 Nr. 3",
+                    "start": 8,
+                    "end": 25,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00066"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00097",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 451 Abs. 1 und 2 der Strafprozeßordnung",
+                    "start": 47,
+                    "end": 88,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00451"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 82 Abs. 1",
+                    "start": 152,
+                    "end": 163,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00082"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 83 Abs. 2",
+                    "start": 165,
+                    "end": 176,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00083"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00098",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 95 Abs. 1",
+                    "start": 80,
+                    "end": 91,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00095"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00098",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16 Jugendgerichtsgesetz",
+                    "start": 134,
+                    "end": 159,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00016"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00099",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29a",
+                    "start": 39,
+                    "end": 44,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-29a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00100",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 24 Abs. 2 Satz 3",
+                    "start": 138,
+                    "end": 156,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 25 Abs. 4",
+                    "start": 158,
+                    "end": 169,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00025"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00100",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 62",
+                    "start": 191,
+                    "end": 195,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00062"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00102",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 86 Abs. 1 und 2",
+                    "start": 29,
+                    "end": 46,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00086"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00103",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 102 Abs. 1",
+                    "start": 64,
+                    "end": 76,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00102"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 68",
+                    "start": 13,
+                    "end": 17,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 100 Abs. 1 Nr. 2",
+                    "start": 130,
+                    "end": 148,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00100"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00104",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 102 Abs. 2",
+                    "start": 86,
+                    "end": 98,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00102"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00104",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 100 Abs. 1 Nr. 2",
+                    "start": 48,
+                    "end": 66,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00100"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00104",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 103 Abs. 1 Nr. 2",
+                    "start": 44,
+                    "end": 62,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00103"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 99 Abs. 2",
+                    "start": 81,
+                    "end": 92,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00099"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00105",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 74 des Jugendgerichtsgesetzes",
+                    "start": 334,
+                    "end": 365,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00074"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00106",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 104 Abs. 1 Satz 2 der Zivilprozessordnung",
+                    "start": 276,
+                    "end": 319,
+                    "target": {
+                        "book": "zpo",
+                        "law": "zpo-00104"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00106",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 68",
+                    "start": 375,
+                    "end": 379,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00107",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30",
+                    "start": 224,
+                    "end": 228,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00030"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00107",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 25a des Straßenverkehrsgesetzes",
+                    "start": 40,
+                    "end": 73,
+                    "target": {
+                        "book": "stvg",
+                        "law": "stvg-25a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00107",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 1 Abs. 2 Satz 2",
+                    "start": 243,
+                    "end": 260,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00001"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 43 Absatz 2 des Jugendgerichtsgesetzes",
+                    "start": 771,
+                    "end": 811,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00043"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 467 Abs. 2 Satz 1 der Strafprozessordnung",
+                    "start": 956,
+                    "end": 999,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00467"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00107",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                11,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12",
+                    "start": 5,
+                    "end": 9,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00012"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 22 Absatz 4",
+                    "start": 140,
+                    "end": 153,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00022"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00107",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 14 Abs. 2",
+                    "start": 226,
+                    "end": 237,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00014"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00108",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 106",
+                    "start": 28,
+                    "end": 33,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00106"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00108",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 62",
+                    "start": 46,
+                    "end": 50,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00062"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-108a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 467a Abs. 1 und 2 der Strafprozeßordnung",
+                    "start": 169,
+                    "end": 211,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-467a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-108a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 50 Abs. 2",
+                    "start": 137,
+                    "end": 148,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00050"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-108a",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 464b Satz 1 der Strafprozeßordnung",
+                    "start": 46,
+                    "end": 82,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-464b"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 68",
+                    "start": 264,
+                    "end": 268,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00068"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00109",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 69 Abs. 1",
+                    "start": 16,
+                    "end": 27,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00069"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00109",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 62",
+                    "start": 18,
+                    "end": 22,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00062"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 464 Abs. 1 und 2 der Strafprozeßordnung",
+                    "start": 130,
+                    "end": 171,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00464"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-109a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 464a Abs. 2 Nr. 2 der Strafprozeßordnung",
+                    "start": 223,
+                    "end": 265,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-464a"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00110",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 8",
+                    "start": 154,
+                    "end": 157,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00008"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00110",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 62",
+                    "start": 111,
+                    "end": 115,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00062"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00110",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 10",
+                    "start": 37,
+                    "end": 41,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00010"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00110",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 15",
+                    "start": 21,
+                    "end": 25,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00015"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-110b",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 32a Absatz 3 der Strafprozessordnung",
+                    "start": 514,
+                    "end": 552,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-32a"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 18",
+                    "start": 612,
+                    "end": 616,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00018"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 12",
+                    "start": 646,
+                    "end": 650,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00012"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 78 Absatz 5",
+                    "start": 679,
+                    "end": 692,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00078"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-110c",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 32f Absatz 6 der Strafprozessordnung",
+                    "start": 185,
+                    "end": 223,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-32f"
+                    },
+                    "fragment": {
+                        "paragraph": "6"
+                    }
+                },
+                {
+                    "text": "§ 32b Absatz 1 Satz 2 der Strafprozessordnung",
+                    "start": 283,
+                    "end": 328,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-32b"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 32d Satz 2 der Strafprozessordnung",
+                    "start": 469,
+                    "end": 505,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-32d"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-110c",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 32e Absatz 4 Satz 1 der Strafprozessordnung",
+                    "start": 63,
+                    "end": 108,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-32e"
+                    },
+                    "fragment": {
+                        "paragraph": "4",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00116",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Absatz 3 des Strafgesetzbuches",
+                    "start": 98,
+                    "end": 133,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00119",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Absatz 3 des Strafgesetzbuches",
+                    "start": 56,
+                    "end": 91,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00119",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Absatz 3 des Strafgesetzbuches",
+                    "start": 59,
+                    "end": 94,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00123",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 119",
+                    "start": 55,
+                    "end": 60,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00119"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00123",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Absatz 3 des Strafgesetzbuches",
+                    "start": 53,
+                    "end": 88,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 119 Abs. 1 und 2",
+                    "start": 113,
+                    "end": 131,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00119"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00123",
+            "element_path": [
+                1,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 119 Abs. 1 oder 2",
+                    "start": 290,
+                    "end": 309,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00119"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 27 Abs. 2",
+                    "start": 376,
+                    "end": 387,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00027"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00123",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 119 Abs. 2",
+                    "start": 18,
+                    "end": 30,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00119"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00127",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 151 des Strafgesetzbuches",
+                    "start": 43,
+                    "end": 70,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00151"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 152a Absatz 4 des Strafgesetzbuches",
+                    "start": 124,
+                    "end": 161,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-152a"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "§ 152b Absatz 4 des Strafgesetzbuches",
+                    "start": 235,
+                    "end": 272,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-152b"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00127",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 152a Absatz 4 des Strafgesetzbuches",
+                    "start": 115,
+                    "end": 152,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-152a"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "§ 152b Absatz 4 des Strafgesetzbuches",
+                    "start": 224,
+                    "end": 261,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-152b"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00128",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 151 des Strafgesetzbuches",
+                    "start": 76,
+                    "end": 103,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00151"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00130",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30 Absatz 2 Satz 3",
+                    "start": 142,
+                    "end": 162,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00131",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 36 Abs. 1 Nr. 1",
+                    "start": 32,
+                    "end": 49,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00131",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 112",
+                    "start": 30,
+                    "end": 35,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00112"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00131",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 114",
+                    "start": 30,
+                    "end": 35,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00114"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00131",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 124",
+                    "start": 30,
+                    "end": 35,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00124"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00131",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 36 Abs. 3",
+                    "start": 221,
+                    "end": 232,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00131",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 130",
+                    "start": 290,
+                    "end": 295,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00130"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00132",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 2 Abs. 2 Satz 1 des Grundgesetzes",
+                    "start": 49,
+                    "end": 90,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "Artikel 2 Abs. 2 Satz 2 des Grundgesetzes",
+                    "start": 118,
+                    "end": 159,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "Artikel 13 des Grundgesetzes",
+                    "start": 200,
+                    "end": 228,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00013"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00133",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 108 Absatz 1 Satz 2",
+                    "start": 0,
+                    "end": 21,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-00108"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "owig-00133",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 49c",
+                    "start": 50,
+                    "end": 55,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-49c"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00133",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29a",
+                    "start": 191,
+                    "end": 196,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-29a"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 29a",
+                    "start": 448,
+                    "end": 453,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-29a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "owig-00134",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 32a der Strafprozessordnung",
+                    "start": 174,
+                    "end": 203,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-32a"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 110a",
+                    "start": 265,
+                    "end": 271,
+                    "target": {
+                        "book": "owig",
+                        "law": "owig-110a"
+                    },
+                    "fragment": null
+                }
+            ]
+        }
+    ]
+}

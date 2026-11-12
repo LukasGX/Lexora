@@ -142,6 +142,28 @@ aside.nav h2 {
 	font-size: 1.2rem;
 }
 
+/* Law reference */
+.law-reference {
+	color: #a47713;
+	text-decoration: underline;
+	text-decoration-style: dotted;
+	text-underline-offset: 3px;
+	cursor: pointer;
+}
+
+.law-reference:hover {
+	color: var(--text);
+	text-decoration-style: solid;
+}
+
+.law-element.highlight {
+	padding: 1rem 1.5rem 0 1.5rem;
+	background: var(--surface-hover);
+	border-radius: var(--radius);
+	outline: 2px solid var(--primary-dark);
+	scroll-margin-top: 2rem;
+}
+
 /* Law Header */
 .law-header {
 	display: flex;

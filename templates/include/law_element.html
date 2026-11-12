@@ -1,49 +1,71 @@
-{% macro render_element(element) %} {% if element.type == "text" %} {% if
-element.content is defined %}
-<p>{{ element.content }}</p>
+{% macro render_text(content, references) %} {% set ns = namespace(pos=0) %} {%
+for ref in references %} {% if ref.start >= ns.pos and ref.end <= content|length
+%} {{ content[ns.pos:ref.start] }}<a
+	class="law-reference"
+	href="/law/{{ ref.target.law }}{% if ref.fragment and ref.fragment.paragraph %}?highlight={{ ref.fragment.paragraph }}{% endif %}"
+	target="_blank"
+	rel="noopener noreferrer"
+	title="In neuem Tab öffnen"
+	>{{ content[ref.start:ref.end] }}</a
+>
+{% set ns.pos = ref.end %} {% endif %} {% endfor %} {{ content[ns.pos:] }} {%
+endmacro %} {% macro render_element(element, path, law_links, highlight=None) %}
+{% if element.type == "text" %} {% if element.content is defined %} {% set ns =
+namespace(references=[]) %} {% for link in law_links %} {% if link.element_path
+== path %} {% set ns.references = link.references %} {% endif %} {% endfor %}
+
+<p>{{ render_text(element.content, ns.references) }}</p>
 {% endif %} {% if element.elements is defined %} {% for child in
-element.elements %} {{ render_element(child) }} {% endfor %} {% endif %} {% elif
-element.type == "paragraph" %}
-<article class="law-element">
+element.elements %} {{ render_element( child, path + ["elements", loop.index0],
+law_links, highlight ) }} {% endfor %} {% endif %} {% elif element.type ==
+"paragraph" %}
+
+<article
+	class="law-element {% if highlight is not none and highlight == element.nr %}highlight{% endif %}">
 	{% if element.nr is defined %}
 	<h2>({{ element.nr }})</h2>
 	{% endif %}
 
 	<div class="law-element-content">
-		{% for child in element.elements %} {{ render_element(child) }} {%
-		endfor %}
+		{% for child in element.elements %} {{ render_element( child, path +
+		["elements", loop.index0], law_links, highlight ) }} {% endfor %}
 	</div>
 </article>
 
 {% elif element.type == "ordered-list" %}
+
 <ol class="law-list ordered">
-	{% for item in element.elements %}
+	{% for item in element.elements %} {% set item_index = loop.index0 %}
 	<li>
 		{% if item.marker is defined %}
 		<span class="list-marker">{{ item.marker }}</span>
 		{% endif %}
 
 		<div class="list-item-content">
-			{% for child in item.elements %} {{ render_element(child) }} {%
-			endfor %}
+			{% for child in item.elements %} {{ render_element( child, path +
+			["elements", item_index, "elements", loop.index0], law_links,
+			highlight ) }} {% endfor %}
 		</div>
 	</li>
 	{% endfor %}
 </ol>
 
 {% elif element.type == "unordered-list" %}
+
 <ul class="law-list unordered">
-	{% for item in element.elements %}
+	{% for item in element.elements %} {% set item_index = loop.index0 %}
 	<li>
 		<div class="list-item-content">
-			{% for child in item.elements %} {{ render_element(child) }} {%
-			endfor %}
+			{% for child in item.elements %} {{ render_element( child, path +
+			["elements", item_index, "elements", loop.index0], law_links,
+			highlight ) }} {% endfor %}
 		</div>
 	</li>
 	{% endfor %}
 </ul>
 
 {% elif element.type == "image" %}
+
 <figure class="law-image">
 	<img
 		src="/static/resources/{{ element.src }}"
@@ -63,4 +85,5 @@ element.type == "paragraph" %}
 		endif
 		%} />
 </figure>
+
 {% endif %} {% endmacro %}

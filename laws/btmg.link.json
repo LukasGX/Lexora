@@ -1,0 +1,2793 @@
+{
+    "version": 1,
+    "book": "btmg",
+    "links": [
+        {
+            "source": "btmg-00003",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Abs. 1 Nr. 3",
+                    "start": 28,
+                    "end": 44,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00004",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 21,
+                    "end": 24,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00004",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 1a Satz 1",
+                    "start": 20,
+                    "end": 41,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1a",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00004",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 21 Absatz 2 Nummer 3",
+                    "start": 139,
+                    "end": 161,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00021"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00004",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 21,
+                    "end": 24,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00005",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 19,
+                    "end": 22,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00005",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 8 Abs. 2",
+                    "start": 101,
+                    "end": 111,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00008"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00006",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 5 Abs. 1 Nr. 2",
+                    "start": 46,
+                    "end": 62,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00005"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00006",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 15 Absatz 1",
+                    "start": 145,
+                    "end": 158,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00015"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00007",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 46,
+                    "end": 49,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00007",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3 Abs. 1",
+                    "start": 38,
+                    "end": 48,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00007",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Abs. 1 Nr. 4",
+                    "start": 26,
+                    "end": 42,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00008",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 7",
+                    "start": 51,
+                    "end": 54,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00007"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-10a",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Abs. 1 Satz 1 Nr. 3",
+                    "start": 132,
+                    "end": 156,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-10a",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 7 Satz 1 und 2 Nr. 1 bis 4 und 8",
+                    "start": 34,
+                    "end": 68,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00007"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "1",
+                            "2"
+                        ],
+                        "numbers": [
+                            "1",
+                            "4",
+                            "8"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 10",
+                    "start": 89,
+                    "end": 93,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00010"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00011",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 118,
+                    "end": 121,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00012",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 72,
+                    "end": 75,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00012",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 4 Abs. 2",
+                    "start": 7,
+                    "end": 17,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00004"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 26",
+                    "start": 23,
+                    "end": 27,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00026"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00012",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 4 Abs. 1 Nr. 1",
+                    "start": 98,
+                    "end": 114,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00004"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00012",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 1a Satz 1",
+                    "start": 20,
+                    "end": 41,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1a",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00012",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 4 Abs. 2",
+                    "start": 56,
+                    "end": 66,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00004"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 26",
+                    "start": 72,
+                    "end": 76,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00026"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00013",
+            "element_path": [
+                4,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 4 Abs. 1 Nr. 1",
+                    "start": 14,
+                    "end": 30,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00004"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00013",
+            "element_path": [
+                4,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 7 Satz 2 Nummer 1 bis 4",
+                    "start": 77,
+                    "end": 102,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00007"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "2"
+                        ],
+                        "numbers": [
+                            "1",
+                            "4"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 8 Absatz 1 Satz 1",
+                    "start": 104,
+                    "end": 123,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00008"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 9 Absatz 2",
+                    "start": 154,
+                    "end": 166,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00009"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 10",
+                    "start": 171,
+                    "end": 175,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00010"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00016",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 19 Abs. 1 Satz 3",
+                    "start": 75,
+                    "end": 93,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00019"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00017",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 33,
+                    "end": 36,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00018",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 33,
+                    "end": 36,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00019",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 4 Absatz 1 Nummer 1",
+                    "start": 633,
+                    "end": 654,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00004"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 10a Absatz 2",
+                    "start": 863,
+                    "end": 877,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 10b Absatz 2",
+                    "start": 886,
+                    "end": 900,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10b"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00021",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2",
+                    "start": 184,
+                    "end": 187,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00002"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00022",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 13 des Grundgesetzes",
+                    "start": 806,
+                    "end": 834,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00013"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00022",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 19 Abs. 1",
+                    "start": 513,
+                    "end": 524,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00019"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00024",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung",
+                    "start": 130,
+                    "end": 177,
+                    "target": {
+                        "book": "zpo",
+                        "law": "zpo-00383"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1",
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00026",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 75,
+                    "end": 78,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00026",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 75,
+                    "end": 78,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00027",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26",
+                    "start": 7,
+                    "end": 11,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00026"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00027",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 19 Abs. 1 Satz 3",
+                    "start": 76,
+                    "end": 94,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00019"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00027",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 19 Abs. 1 Satz 2",
+                    "start": 23,
+                    "end": 41,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00019"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Abs. 1 Nr. 3",
+                    "start": 31,
+                    "end": 47,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 3 Abs. 1 Nr. 2",
+                    "start": 69,
+                    "end": 85,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Abs. 1 Satz 2",
+                    "start": 9,
+                    "end": 27,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Abs. 1",
+                    "start": 9,
+                    "end": 20,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 1a Satz 1 und 2",
+                    "start": 9,
+                    "end": 36,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1a",
+                        "sentences": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                7,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 1b Satz 1",
+                    "start": 9,
+                    "end": 30,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1b",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                8,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 2",
+                    "start": 9,
+                    "end": 22,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                9,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 14 Abs. 5",
+                    "start": 9,
+                    "end": 20,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00014"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                12,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 10a",
+                    "start": 20,
+                    "end": 25,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 10a",
+                    "start": 176,
+                    "end": 181,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                13,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Absatz 3 des Strafgesetzbuches",
+                    "start": 70,
+                    "end": 105,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00029",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                15,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Abs. 2 Satz 2 Nr. 1",
+                    "start": 28,
+                    "end": 52,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ],
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 13 Abs. 3 Satz 2 Nr. 1, 2a oder 5",
+                    "start": 58,
+                    "end": 93,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ],
+                        "numbers": [
+                            "1",
+                            "2a",
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-29a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Abs. 1",
+                    "start": 111,
+                    "end": 122,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-29a",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3 Abs. 1",
+                    "start": 179,
+                    "end": 189,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00030",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Abs. 1 Satz 1 Nr. 1",
+                    "start": 75,
+                    "end": 99,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00030",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29a Abs. 1 Nr. 1",
+                    "start": 13,
+                    "end": 31,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-29a"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00030",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29a Absatz 1 Nummer 1",
+                    "start": 8,
+                    "end": 31,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-29a"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-30a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Abs. 1 Satz 1 Nr. 1",
+                    "start": 182,
+                    "end": 206,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-30b",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 129 des Strafgesetzbuches",
+                    "start": 0,
+                    "end": 27,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00129"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 6 Nr. 5 des Strafgesetzbuches",
+                    "start": 164,
+                    "end": 195,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00006"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00031",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 49 Abs. 1 des Strafgesetzbuches",
+                    "start": 33,
+                    "end": 66,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00049"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00031",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Abs. 3",
+                    "start": 91,
+                    "end": 102,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 29a Abs. 1",
+                    "start": 104,
+                    "end": 116,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-29a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 30 Abs. 1",
+                    "start": 118,
+                    "end": 129,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 30a Abs. 1",
+                    "start": 131,
+                    "end": 143,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-30a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00031",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 46b Abs. 2 und 3 des Strafgesetzbuches",
+                    "start": 142,
+                    "end": 182,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-46b"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-31a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Abs. 1, 2 oder 4",
+                    "start": 36,
+                    "end": 57,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 10a",
+                    "start": 576,
+                    "end": 581,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 10b",
+                    "start": 964,
+                    "end": 969,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10b"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-31a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 205 der Strafprozeßordnung",
+                    "start": 298,
+                    "end": 326,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00205"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 231 Abs. 2 der Strafprozeßordnung",
+                    "start": 401,
+                    "end": 436,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00231"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 4 Abs. 3 Satz 1",
+                    "start": 9,
+                    "end": 26,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00004"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 7",
+                    "start": 21,
+                    "end": 24,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00007"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 10a Abs. 3",
+                    "start": 49,
+                    "end": 61,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 13 Absatz 3 Satz 3",
+                    "start": 67,
+                    "end": 87,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 8 Abs. 3 Satz 1",
+                    "start": 9,
+                    "end": 26,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00008"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 10a Abs. 3",
+                    "start": 51,
+                    "end": 63,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 9 Abs. 2",
+                    "start": 33,
+                    "end": 43,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00009"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 10a Abs. 3",
+                    "start": 68,
+                    "end": 80,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Abs. 1 Satz 1",
+                    "start": 9,
+                    "end": 27,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Abs. 2 Satz 2 Nr. 2 bis 4",
+                    "start": 28,
+                    "end": 58,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ],
+                        "numbers": [
+                            "2",
+                            "4"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 12 Abs. 4",
+                    "start": 60,
+                    "end": 71,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00012"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "§ 13 Abs. 3 Satz 2 Nr. 2, 3 oder 4",
+                    "start": 73,
+                    "end": 107,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ],
+                        "numbers": [
+                            "2",
+                            "3",
+                            "4"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 20 Abs. 1",
+                    "start": 109,
+                    "end": 120,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00020"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 28 Abs. 2",
+                    "start": 126,
+                    "end": 137,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00028"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Abs. 1",
+                    "start": 9,
+                    "end": 20,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00012"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 12 Abs. 2",
+                    "start": 59,
+                    "end": 70,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00012"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                7,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 1a Satz 3",
+                    "start": 9,
+                    "end": 30,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1a",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                8,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 1a Satz 4 oder 5",
+                    "start": 9,
+                    "end": 37,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1a",
+                        "sentences": [
+                            "4",
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                9,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 14 Abs. 1 bis 4",
+                    "start": 9,
+                    "end": 26,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00014"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                10,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 15 Satz 3",
+                    "start": 35,
+                    "end": 46,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00015"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                11,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16 Abs. 1",
+                    "start": 9,
+                    "end": 20,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00016"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 16 Abs. 2 Satz 1",
+                    "start": 146,
+                    "end": 164,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00016"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 16 Abs. 3",
+                    "start": 246,
+                    "end": 257,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00016"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                12,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 17 Abs. 1 oder 2",
+                    "start": 9,
+                    "end": 27,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 17 Abs. 3",
+                    "start": 107,
+                    "end": 118,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                13,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18 Abs. 1 bis 3",
+                    "start": 9,
+                    "end": 26,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00018"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                14,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 24 Abs. 1",
+                    "start": 9,
+                    "end": 20,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                15,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "Artikel 10 Abs. 1 des Grundgesetzes",
+                    "start": 172,
+                    "end": 207,
+                    "target": {
+                        "book": "gg",
+                        "law": "gg-00010"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00032",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 36 Abs. 1 Nr. 1",
+                    "start": 32,
+                    "end": 49,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00033",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 32",
+                    "start": 97,
+                    "end": 101,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00032"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 74a des Strafgesetzbuches",
+                    "start": 137,
+                    "end": 164,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-74a"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 23",
+                    "start": 169,
+                    "end": 173,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00023"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00034",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Abs. 3",
+                    "start": 18,
+                    "end": 29,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 68 Abs. 1 des Strafgesetzbuches",
+                    "start": 98,
+                    "end": 131,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-00068"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00035",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 462 der Strafprozeßordnung",
+                    "start": 381,
+                    "end": 409,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00462"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00036",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 35 Abs. 1",
+                    "start": 417,
+                    "end": 428,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00035"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00036",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 454 Abs. 4 der Strafprozeßordnung",
+                    "start": 363,
+                    "end": 398,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00454"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00037",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 35 Abs. 1",
+                    "start": 446,
+                    "end": 457,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00035"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-00037",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 467 Abs. 5 der Strafprozeßordnung",
+                    "start": 45,
+                    "end": 80,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00467"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                },
+                {
+                    "text": "§ 153a der Strafprozeßordnung",
+                    "start": 84,
+                    "end": 113,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-153a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00038",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 35 Abs. 1 Satz 1",
+                    "start": 107,
+                    "end": 125,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00035"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 35 Abs. 7 Satz 2",
+                    "start": 231,
+                    "end": 249,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00035"
+                    },
+                    "fragment": {
+                        "paragraph": "7",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 36 Abs. 4",
+                    "start": 353,
+                    "end": 364,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "§ 36 Abs. 1 Satz 3",
+                    "start": 459,
+                    "end": 477,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 454 Abs. 4 der Strafprozeßordnung",
+                    "start": 500,
+                    "end": 535,
+                    "target": {
+                        "book": "stpo",
+                        "law": "stpo-00454"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "§ 60 des Jugendgerichtsgesetzes",
+                    "start": 567,
+                    "end": 598,
+                    "target": {
+                        "book": "jgg",
+                        "law": "jgg-00060"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00038",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 37",
+                    "start": 0,
+                    "end": 4,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00037"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "btmg-00039",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 10a Abs. 2",
+                    "start": 398,
+                    "end": 410,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 10a Abs. 1",
+                    "start": 454,
+                    "end": 466,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 10a Abs. 2",
+                    "start": 621,
+                    "end": 633,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-10a"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 29 Abs. 1 Satz 1 Nr. 10 und 11",
+                    "start": 712,
+                    "end": 744,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "10",
+                            "11"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-39a",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 5 Absatz 1 Nummer 2",
+                    "start": 43,
+                    "end": 64,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00005"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 6 Absatz 1 Nummer 1",
+                    "start": 227,
+                    "end": 248,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00006"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-anlage-i",
+            "element_path": [
+                0,
+                "elements",
+                3,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Absatz 1 Nummer 1",
+                    "start": 12,
+                    "end": 33,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 2 Absatz 1 Nummer 1",
+                    "start": 172,
+                    "end": 193,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "btmg-anlage-iii",
+            "element_path": [
+                0,
+                "elements",
+                87,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11",
+                    "start": 309,
+                    "end": 313,
+                    "target": {
+                        "book": "btmg",
+                        "law": "btmg-00011"
+                    },
+                    "fragment": null
+                }
+            ]
+        }
+    ]
+}

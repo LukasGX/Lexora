@@ -1,0 +1,4469 @@
+{
+    "version": 1,
+    "book": "stvo",
+    "links": [
+        {
+            "source": "stvo-00002",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 36 Absatz 4",
+                    "start": 253,
+                    "end": 266,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00002",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Nummer 18",
+                    "start": 21,
+                    "end": 34,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "18"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00002",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Nummer 13",
+                    "start": 44,
+                    "end": 57,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "13"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00002",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 35 Absatz 1",
+                    "start": 24,
+                    "end": 37,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00035"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 36 Absatz 4",
+                    "start": 160,
+                    "end": 173,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00002",
+            "element_path": [
+                3,
+                "elements",
+                4
+            ],
+            "references": [
+                {
+                    "text": "§ 36 Absatz 4",
+                    "start": 114,
+                    "end": 127,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                },
+                {
+                    "text": "§ 36 Absatz 4",
+                    "start": 290,
+                    "end": 303,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00007",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Absatz 2",
+                    "start": 128,
+                    "end": 140,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00016",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 5 Absatz 5",
+                    "start": 50,
+                    "end": 62,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00005"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00016",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 15",
+                    "start": 398,
+                    "end": 402,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00015"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 15a",
+                    "start": 441,
+                    "end": 446,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-15a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00019",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 37 Absatz 2 Nummer 1",
+                    "start": 240,
+                    "end": 262,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00037"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00021",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22",
+                    "start": 91,
+                    "end": 95,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00022"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00022",
+            "element_path": [
+                3,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 17 Absatz 1",
+                    "start": 102,
+                    "end": 115,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00022",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 17 Absatz 1",
+                    "start": 205,
+                    "end": 218,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00023",
+            "element_path": [
+                1,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 1b des Straßenverkehrsgesetzes",
+                    "start": 729,
+                    "end": 761,
+                    "target": {
+                        "book": "stvg",
+                        "law": "stvg-1b"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00023",
+            "element_path": [
+                4,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 1a Absatz 4 des Straßenverkehrsgesetzes",
+                    "start": 41,
+                    "end": 82,
+                    "target": {
+                        "book": "stvg",
+                        "law": "stvg-1a"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00023",
+            "element_path": [
+                7,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 21a Absatz 2 Satz 1",
+                    "start": 146,
+                    "end": 167,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-21a"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00027",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 17 Absatz 1",
+                    "start": 101,
+                    "end": 114,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00032",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 17 Absatz 1",
+                    "start": 380,
+                    "end": 393,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00034",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 323c des Strafgesetzbuchs",
+                    "start": 22,
+                    "end": 49,
+                    "target": {
+                        "book": "stgb",
+                        "law": "stgb-323c"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00035",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 27",
+                    "start": 62,
+                    "end": 66,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00027"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00035",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Absatz 3 Satz 2",
+                    "start": 82,
+                    "end": 102,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00035",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29",
+                    "start": 358,
+                    "end": 362,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00035",
+            "element_path": [
+                8,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 1",
+                    "start": 98,
+                    "end": 101,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00001"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00035",
+            "element_path": [
+                9,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 17 Absatz 1",
+                    "start": 62,
+                    "end": 75,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 17 Absatz 1",
+                    "start": 507,
+                    "end": 520,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 17 Absatz 2",
+                    "start": 575,
+                    "end": 588,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 12 Absatz 4 Satz 1",
+                    "start": 687,
+                    "end": 707,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00012"
+                    },
+                    "fragment": {
+                        "paragraph": "4",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 2 Absatz 3",
+                    "start": 1285,
+                    "end": 1297,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00035",
+            "element_path": [
+                11,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 23 Absatz 1a",
+                    "start": 206,
+                    "end": 220,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00023"
+                    },
+                    "fragment": {
+                        "paragraph": "1a"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00036",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 9",
+                    "start": 313,
+                    "end": 316,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00009"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-36a",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3 Absatz 1 Nummer 2",
+                    "start": 57,
+                    "end": 78,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 36 Absatz 1 bis 4",
+                    "start": 173,
+                    "end": 192,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00037",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 9",
+                    "start": 89,
+                    "end": 92,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00009"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00039",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Absatz 1d",
+                    "start": 542,
+                    "end": 556,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "1d"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00039",
+            "element_path": [
+                13
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Absatz 2 und 4",
+                    "start": 243,
+                    "end": 262,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00039",
+            "element_path": [
+                14,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Nummer 1",
+                    "start": 131,
+                    "end": 143,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 4 Absatz 1 und 2",
+                    "start": 152,
+                    "end": 170,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00004"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00040",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3 Absatz 1",
+                    "start": 137,
+                    "end": 149,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00043",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 39 Absatz 1",
+                    "start": 429,
+                    "end": 442,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00039"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00043",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 17 Absatz 4 Satz 2 und 3",
+                    "start": 23,
+                    "end": 49,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "4",
+                        "sentences": [
+                            "2",
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00044",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 36",
+                    "start": 65,
+                    "end": 69,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00036"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00044",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 1 Nummer 6",
+                    "start": 24,
+                    "end": 36,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00001"
+                    },
+                    "fragment": {
+                        "numbers": [
+                            "6"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 3",
+                    "start": 129,
+                    "end": 132,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00044",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Absatz 2",
+                    "start": 19,
+                    "end": 32,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 30 Absatz 2",
+                    "start": 42,
+                    "end": 55,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00044",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Absatz 3",
+                    "start": 19,
+                    "end": 32,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 46 Absatz 1 Nummer 2 und 5",
+                    "start": 340,
+                    "end": 368,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2",
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-44a",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 44 Absatz 3",
+                    "start": 268,
+                    "end": 281,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00044"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 29 Absatz 2",
+                    "start": 335,
+                    "end": 348,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 46 Absatz 2a",
+                    "start": 491,
+                    "end": 505,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "2a"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-44a",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 44 Absatz 4",
+                    "start": 130,
+                    "end": 143,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00044"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-44a",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 4 Absatz 2",
+                    "start": 36,
+                    "end": 48,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00004"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00045",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 8 Absatz 1 Satz 1",
+                    "start": 768,
+                    "end": 787,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00008"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00045",
+            "element_path": [
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 47 Absatz 1 oder 2",
+                    "start": 111,
+                    "end": 131,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00047"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00045",
+            "element_path": [
+                7,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3 Absatz 1",
+                    "start": 125,
+                    "end": 137,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00045",
+            "element_path": [
+                8,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 39 Absatz 11",
+                    "start": 293,
+                    "end": 307,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00039"
+                    },
+                    "fragment": {
+                        "paragraph": "11"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00045",
+            "element_path": [
+                9,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 8 Absatz 1 Satz 1",
+                    "start": 707,
+                    "end": 726,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00008"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00045",
+            "element_path": [
+                18,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3 Absatz 3 Nummer 2",
+                    "start": 268,
+                    "end": 289,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00045",
+            "element_path": [
+                19,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 47 Absatz 1 oder 2",
+                    "start": 445,
+                    "end": 465,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00047"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2",
+                    "start": 48,
+                    "end": 51,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18 Absatz 1 und 9",
+                    "start": 161,
+                    "end": 180,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00018"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Absatz 4",
+                    "start": 32,
+                    "end": 45,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00012"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Absatz 3 Nummer 3",
+                    "start": 79,
+                    "end": 101,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00012"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 1",
+                    "start": 125,
+                    "end": 138,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 2",
+                    "start": 134,
+                    "end": 147,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 15a",
+                    "start": 58,
+                    "end": 63,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-15a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                7,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18 Absatz 1 Satz 2",
+                    "start": 74,
+                    "end": 94,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00018"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 22 Absatz 2 bis 4",
+                    "start": 96,
+                    "end": 115,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00022"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                8,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 21",
+                    "start": 55,
+                    "end": 59,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00021"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                9,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 21a",
+                    "start": 93,
+                    "end": 98,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-21a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                10,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 28 Absatz 1 Satz 3 und 4",
+                    "start": 95,
+                    "end": 121,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00028"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3",
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                11,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30 Absatz 3",
+                    "start": 35,
+                    "end": 48,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                12,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 32 Absatz 1",
+                    "start": 51,
+                    "end": 64,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00032"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                13,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 33 Absatz 1 Nummer 1 und 2",
+                    "start": 94,
+                    "end": 122,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00033"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                14,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 33 Absatz 2 Satz 2",
+                    "start": 73,
+                    "end": 93,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00033"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                15,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Absatz 4",
+                    "start": 154,
+                    "end": 167,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                16,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Absatz 3a",
+                    "start": 39,
+                    "end": 53,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00012"
+                    },
+                    "fragment": {
+                        "paragraph": "3a"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                0,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 21 Absatz 2",
+                    "start": 72,
+                    "end": 85,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00021"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 21a",
+                    "start": 482,
+                    "end": 487,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-21a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Absatz 1 Nummer 3",
+                    "start": 203,
+                    "end": 225,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 3 Absatz 1",
+                    "start": 402,
+                    "end": 414,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00003"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30 Absatz 3",
+                    "start": 259,
+                    "end": 272,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 30 Absatz 4",
+                    "start": 438,
+                    "end": 451,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Absatz 1",
+                    "start": 56,
+                    "end": 68,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18 Absatz 2 und 10 Satz 1",
+                    "start": 88,
+                    "end": 115,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00018"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18 Absatz 8",
+                    "start": 32,
+                    "end": 45,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00018"
+                    },
+                    "fragment": {
+                        "paragraph": "8"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18 Absatz 1 und 9",
+                    "start": 105,
+                    "end": 124,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00018"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 33 Absatz 1 Satz 1 Nummer 3",
+                    "start": 95,
+                    "end": 124,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00033"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Absatz 4",
+                    "start": 164,
+                    "end": 177,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                3,
+                "elements",
+                2
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Absatz 3",
+                    "start": 83,
+                    "end": 96,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 29 Absatz 3",
+                    "start": 229,
+                    "end": 242,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 33 Absatz 1 Satz 1 Nummer 3",
+                    "start": 549,
+                    "end": 578,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00033"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00046",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Absatz 3",
+                    "start": 416,
+                    "end": 429,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 46 Absatz 1 Nummer 5",
+                    "start": 461,
+                    "end": 483,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00047",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Absatz 2",
+                    "start": 21,
+                    "end": 34,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 30 Absatz 2",
+                    "start": 44,
+                    "end": 57,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                },
+                {
+                    "text": "§ 44 Absatz 3",
+                    "start": 123,
+                    "end": 136,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00044"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 29 Absatz 3",
+                    "start": 345,
+                    "end": 358,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00047",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 1 Nummer 2",
+                    "start": 5,
+                    "end": 27,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 18 Absatz 1",
+                    "start": 50,
+                    "end": 63,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00018"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 29 Absatz 3",
+                    "start": 203,
+                    "end": 216,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                },
+                {
+                    "text": "§ 46 Absatz 1 Nummer 5",
+                    "start": 252,
+                    "end": 274,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00047",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 1 Nummer 4a",
+                    "start": 5,
+                    "end": 28,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "4a"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 46 Absatz 1 Nummer 4a und 4b",
+                    "start": 67,
+                    "end": 97,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "4a",
+                            "4b"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00047",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 1 Nummer 4c",
+                    "start": 5,
+                    "end": 28,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "4c"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00047",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 1 Nummer 5",
+                    "start": 5,
+                    "end": 27,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00047",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 1 Nummer 5b",
+                    "start": 5,
+                    "end": 28,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "5b"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00047",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 1 Nummer 7",
+                    "start": 5,
+                    "end": 27,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "7"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00047",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 1 Nummer 11",
+                    "start": 5,
+                    "end": 28,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "11"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00047",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 35 Absatz 5",
+                    "start": 85,
+                    "end": 98,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00035"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 24 Absatz 1 des Straßenverkehrsgesetzes",
+                    "start": 28,
+                    "end": 69,
+                    "target": {
+                        "book": "stvg",
+                        "law": "stvg-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 1 Absatz 2",
+                    "start": 48,
+                    "end": 60,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00001"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Absatz 1 bis 3a",
+                    "start": 42,
+                    "end": 61,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 3",
+                    "start": 25,
+                    "end": 28,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00003"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 4",
+                    "start": 17,
+                    "end": 20,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00004"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 5 Absatz 1 oder 2",
+                    "start": 19,
+                    "end": 38,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00005"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 6",
+                    "start": 22,
+                    "end": 25,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00006"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 7 Absatz 3a Satz 1",
+                    "start": 38,
+                    "end": 58,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00007"
+                    },
+                    "fragment": {
+                        "paragraph": "3a",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 7 Absatz 5",
+                    "start": 153,
+                    "end": 165,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00007"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                7,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 7a Absatz 3",
+                    "start": 44,
+                    "end": 57,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-7a"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                8,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 8",
+                    "start": 18,
+                    "end": 21,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00008"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                9,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 9 Absatz 1",
+                    "start": 47,
+                    "end": 59,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00009"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                10,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 10 Satz 1",
+                    "start": 33,
+                    "end": 44,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00010"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                11,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 11 Absatz 1 oder 2",
+                    "start": 48,
+                    "end": 68,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00011"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                12,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 12 Absatz 1, 3, 3a Satz 1",
+                    "start": 28,
+                    "end": 55,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00012"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                13,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 13 Absatz 1 oder 2",
+                    "start": 46,
+                    "end": 66,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00013"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                14,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 14",
+                    "start": 54,
+                    "end": 58,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00014"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                15,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 15",
+                    "start": 38,
+                    "end": 42,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00015"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                16,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 15a",
+                    "start": 21,
+                    "end": 26,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-15a"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                17,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 16",
+                    "start": 32,
+                    "end": 36,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00016"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                18,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 17 Absatz 1 bis 4",
+                    "start": 67,
+                    "end": 86,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00017"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                19,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18 Absatz 1 bis 3",
+                    "start": 55,
+                    "end": 74,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00018"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                20,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 19 Absatz 1 Satz 1 Nummer 2 oder 3",
+                    "start": 23,
+                    "end": 59,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00019"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "2",
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                20,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 20",
+                    "start": 78,
+                    "end": 82,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00020"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                21,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 21 Absatz 1 Satz 1 oder 4",
+                    "start": 29,
+                    "end": 56,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00021"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1",
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                22,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 21a Absatz 1 Satz 1",
+                    "start": 107,
+                    "end": 128,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-21a"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 21a Absatz 2 Satz 1",
+                    "start": 167,
+                    "end": 188,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-21a"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                23,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 22",
+                    "start": 16,
+                    "end": 20,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00022"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                24,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 23 Absatz 1",
+                    "start": 44,
+                    "end": 57,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00023"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                25,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 24 Absatz 1",
+                    "start": 54,
+                    "end": 67,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 24 Absatz 2",
+                    "start": 95,
+                    "end": 108,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                26,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 25 Absatz 1 bis 4",
+                    "start": 25,
+                    "end": 44,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00025"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                26,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 26",
+                    "start": 27,
+                    "end": 31,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00026"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                26,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 27 Absatz 6",
+                    "start": 17,
+                    "end": 30,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00027"
+                    },
+                    "fragment": {
+                        "paragraph": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                27,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 30 Absatz 1 oder 2",
+                    "start": 22,
+                    "end": 42,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                },
+                {
+                    "text": "§ 30 Absatz 3 Satz 1 oder 2 Nummer 7 Satz 2",
+                    "start": 87,
+                    "end": 130,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00030"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ],
+                        "numbers": [
+                            "7"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                28,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 31 Absatz 1 Satz 1",
+                    "start": 35,
+                    "end": 55,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00031"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                29,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 32",
+                    "start": 132,
+                    "end": 136,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00032"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                30,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 33 Absatz 1 oder 2",
+                    "start": 32,
+                    "end": 52,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00033"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                31,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 34 Absatz 1 Nummer 1",
+                    "start": 45,
+                    "end": 67,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00034"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "numbers": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 34 Absatz 3",
+                    "start": 276,
+                    "end": 289,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00034"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 24 Absatz 1 des Straßenverkehrsgesetzes",
+                    "start": 28,
+                    "end": 69,
+                    "target": {
+                        "book": "stvg",
+                        "law": "stvg-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 27 Absatz 5",
+                    "start": 50,
+                    "end": 63,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00027"
+                    },
+                    "fragment": {
+                        "paragraph": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 27 Absatz 2",
+                    "start": 9,
+                    "end": 22,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00027"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 27 Absatz 1 Satz 4",
+                    "start": 52,
+                    "end": 72,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00027"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 28 Absatz 1",
+                    "start": 79,
+                    "end": 92,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00028"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 28 Absatz 2",
+                    "start": 70,
+                    "end": 83,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00028"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Absatz 2 Satz 1",
+                    "start": 9,
+                    "end": 29,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 29 Absatz 2 Satz 3",
+                    "start": 94,
+                    "end": 114,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "2",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                7,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 29 Absatz 3",
+                    "start": 9,
+                    "end": 22,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00029"
+                    },
+                    "fragment": {
+                        "paragraph": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 24 Absatz 1 des Straßenverkehrsgesetzes",
+                    "start": 28,
+                    "end": 69,
+                    "target": {
+                        "book": "stvg",
+                        "law": "stvg-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 36 Absatz 1 Satz 1",
+                    "start": 9,
+                    "end": 29,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 36 Absatz 5 Satz 4",
+                    "start": 92,
+                    "end": 112,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00036"
+                    },
+                    "fragment": {
+                        "paragraph": "5",
+                        "sentences": [
+                            "4"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 36a Satz 1",
+                    "start": 118,
+                    "end": 130,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-36a"
+                    },
+                    "fragment": {
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 37",
+                    "start": 21,
+                    "end": 25,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00037"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 38 Absatz 1, 2 oder 3 Satz 3",
+                    "start": 9,
+                    "end": 39,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00038"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 38 Absatz 1 Satz 2",
+                    "start": 146,
+                    "end": 166,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00038"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 41 Absatz 1",
+                    "start": 9,
+                    "end": 22,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00041"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 42 Absatz 2",
+                    "start": 9,
+                    "end": 22,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00042"
+                    },
+                    "fragment": {
+                        "paragraph": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 43 Absatz 3 Satz 2",
+                    "start": 9,
+                    "end": 29,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00043"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                2,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Absatz 4",
+                    "start": 71,
+                    "end": 84,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 24 Absatz 1 des Straßenverkehrsgesetzes",
+                    "start": 28,
+                    "end": 69,
+                    "target": {
+                        "book": "stvg",
+                        "law": "stvg-00024"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 35 Absatz 6 Satz 1, 2 oder 3",
+                    "start": 15,
+                    "end": 45,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00035"
+                    },
+                    "fragment": {
+                        "paragraph": "6",
+                        "sentences": [
+                            "1",
+                            "2",
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 35 Absatz 6 Satz 4",
+                    "start": 9,
+                    "end": 29,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00035"
+                    },
+                    "fragment": {
+                        "paragraph": "6",
+                        "sentences": [
+                            "4"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 35 Absatz 8",
+                    "start": 9,
+                    "end": 22,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00035"
+                    },
+                    "fragment": {
+                        "paragraph": "8"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Absatz 6",
+                    "start": 9,
+                    "end": 22,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 3 Satz 1",
+                    "start": 9,
+                    "end": 29,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 3 Satz 3",
+                    "start": 9,
+                    "end": 29,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "3",
+                        "sentences": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                6,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 48",
+                    "start": 9,
+                    "end": 13,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00048"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00049",
+            "element_path": [
+                3,
+                "elements",
+                1,
+                "elements",
+                7,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 50",
+                    "start": 9,
+                    "end": 13,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00050"
+                    },
+                    "fragment": null
+                }
+            ]
+        },
+        {
+            "source": "stvo-00051",
+            "element_path": [
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 5b Absatz 1 des Straßenverkehrsgesetzes",
+                    "start": 67,
+                    "end": 108,
+                    "target": {
+                        "book": "stvg",
+                        "law": "stvg-5b"
+                    },
+                    "fragment": {
+                        "paragraph": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00052",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                0,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 39 Absatz 10",
+                    "start": 0,
+                    "end": 14,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00039"
+                    },
+                    "fragment": {
+                        "paragraph": "10"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00052",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Absatz 1g",
+                    "start": 0,
+                    "end": 14,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "1g"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00052",
+            "element_path": [
+                0,
+                "elements",
+                1,
+                "elements",
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 46 Absatz 1a",
+                    "start": 0,
+                    "end": 14,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1a"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00052",
+            "element_path": [
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Absatz 3a Satz 1",
+                    "start": 15,
+                    "end": 35,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "3a",
+                        "sentences": [
+                            "1"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00052",
+            "element_path": [
+                2,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 2 Absatz 3a Satz 3 Nummer 2",
+                    "start": 0,
+                    "end": 29,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "3a",
+                        "sentences": [
+                            "3"
+                        ],
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "text": "§ 2 Absatz 3a Satz 3 Nummer 2",
+                    "start": 298,
+                    "end": 327,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00002"
+                    },
+                    "fragment": {
+                        "paragraph": "3a",
+                        "sentences": [
+                            "3"
+                        ],
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00052",
+            "element_path": [
+                3,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 23 Absatz 1a",
+                    "start": 0,
+                    "end": 14,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00023"
+                    },
+                    "fragment": {
+                        "paragraph": "1a"
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00052",
+            "element_path": [
+                4,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 44a",
+                    "start": 0,
+                    "end": 5,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-44a"
+                    },
+                    "fragment": null
+                },
+                {
+                    "text": "§ 45 Absatz 11",
+                    "start": 31,
+                    "end": 45,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "11"
+                    }
+                },
+                {
+                    "text": "§ 46 Absatz 1 Satz 1 Nummer 2",
+                    "start": 47,
+                    "end": 76,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00046"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "1"
+                        ],
+                        "numbers": [
+                            "2"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00052",
+            "element_path": [
+                5,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 45 Absatz 1 Satz 2 Nummer 7",
+                    "start": 25,
+                    "end": 54,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00045"
+                    },
+                    "fragment": {
+                        "paragraph": "1",
+                        "sentences": [
+                            "2"
+                        ],
+                        "numbers": [
+                            "7"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "source": "stvo-00053",
+            "element_path": [
+                1,
+                "elements",
+                1,
+                "elements",
+                1,
+                "elements",
+                0
+            ],
+            "references": [
+                {
+                    "text": "§ 18 Absatz 5 Nummer 3",
+                    "start": 92,
+                    "end": 114,
+                    "target": {
+                        "book": "stvo",
+                        "law": "stvo-00018"
+                    },
+                    "fragment": {
+                        "paragraph": "5",
+                        "numbers": [
+                            "3"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
