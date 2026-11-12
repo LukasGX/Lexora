@@ -1,0 +1,185 @@
+{
+    "schema_version": 1,
+    "law_id": "stgb-00123",
+    "title": "Hausfriedensbruch",
+    "summary": "Bestraft wird, wer widerrechtlich in die Wohnung, die Geschäftsräume, ein befriedetes Besitztum eines anderen oder in abgeschlossene, zum öffentlichen Dienst oder Verkehr bestimmte Räume eindringt, oder wer dort ohne Befugnis verweilt und auf Aufforderung des Berechtigten nicht geht. Die Strafe ist Freiheitsstrafe bis zu einem Jahr oder Geldstrafe. Die Tat wird nur auf Antrag verfolgt.",
+    "sections": [
+        {
+            "type": "elements",
+            "title": "Tatbestandsmerkmale",
+            "content": {
+                "operator": "any",
+                "items": [
+                    {
+                        "operator": "all",
+                        "items": [
+                            {
+                                "text": "Alternative 1: Widerrechtliches Eindringen in die Wohnung, die Geschäftsräume, ein befriedetes Besitztum eines anderen oder in abgeschlossene, zum öffentlichen Dienst oder Verkehr bestimmte Räume.",
+                                "sources": [
+                                    {
+                                        "paragraph": "1",
+                                        "sentence": 1,
+                                        "element_path": [
+                                            "contents",
+                                            0,
+                                            "elements",
+                                            0,
+                                            "content"
+                                        ],
+                                        "quote": "in die Wohnung, in die Geschäftsräume oder in das befriedete Besitztum eines anderen oder in abgeschlossene Räume, welche zum öffentlichen Dienst oder Verkehr bestimmt sind, widerrechtlich eindringt"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "operator": "all",
+                        "items": [
+                            {
+                                "text": "Alternative 2: Verweilen ohne Befugnis in den unter Alternative 1 genannten Räumlichkeiten.",
+                                "sources": [
+                                    {
+                                        "paragraph": "1",
+                                        "sentence": 1,
+                                        "element_path": [
+                                            "contents",
+                                            0,
+                                            "elements",
+                                            0,
+                                            "content"
+                                        ],
+                                        "quote": "in die Wohnung, in die Geschäftsräume oder in das befriedete Besitztum eines anderen oder in abgeschlossene Räume, welche zum öffentlichen Dienst oder Verkehr bestimmt sind"
+                                    },
+                                    {
+                                        "paragraph": "1",
+                                        "sentence": 1,
+                                        "element_path": [
+                                            "contents",
+                                            0,
+                                            "elements",
+                                            0,
+                                            "content"
+                                        ],
+                                        "quote": "wenn er ohne Befugnis darin verweilt"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Aufforderung des Berechtigten zum Verlassen.",
+                                "sources": [
+                                    {
+                                        "paragraph": "1",
+                                        "sentence": 1,
+                                        "element_path": [
+                                            "contents",
+                                            0,
+                                            "elements",
+                                            0,
+                                            "content"
+                                        ],
+                                        "quote": "auf die Aufforderung des Berechtigten"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Nichtentfernen trotz dieser Aufforderung.",
+                                "sources": [
+                                    {
+                                        "paragraph": "1",
+                                        "sentence": 1,
+                                        "element_path": [
+                                            "contents",
+                                            0,
+                                            "elements",
+                                            0,
+                                            "content"
+                                        ],
+                                        "quote": "auf die Aufforderung des Berechtigten sich nicht entfernt"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "legal_consequences",
+            "title": "Rechtsfolgen",
+            "content": {
+                "operator": "any",
+                "items": [
+                    {
+                        "text": "Freiheitsstrafe bis zu einem Jahr.",
+                        "sources": [
+                            {
+                                "paragraph": "1",
+                                "sentence": 1,
+                                "element_path": [
+                                    "contents",
+                                    0,
+                                    "elements",
+                                    0,
+                                    "content"
+                                ],
+                                "quote": "mit Freiheitsstrafe bis zu einem Jahr"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Geldstrafe.",
+                        "sources": [
+                            {
+                                "paragraph": "1",
+                                "sentence": 1,
+                                "element_path": [
+                                    "contents",
+                                    0,
+                                    "elements",
+                                    0,
+                                    "content"
+                                ],
+                                "quote": "mit Geldstrafe bestraft"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "procedure",
+            "title": "Verfolgungsvoraussetzung",
+            "content": {
+                "operator": "all",
+                "items": [
+                    {
+                        "text": "Die Tat wird nur auf Antrag verfolgt.",
+                        "sources": [
+                            {
+                                "paragraph": "2",
+                                "sentence": 1,
+                                "element_path": [
+                                    "contents",
+                                    1,
+                                    "elements",
+                                    0,
+                                    "content"
+                                ],
+                                "quote": "Die Tat wird nur auf Antrag verfolgt."
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "quality": {
+        "confidence": 0.9,
+        "uncertainties": [
+            "Die Begriffe 'widerrechtlich', 'befriedetes Besitztum', 'Befugnis' und 'Berechtigter' werden im bereitgestellten Gesetzestext nicht definiert; eine Auslegung wurde nicht vorgenommen.",
+            "Der Text regelt nicht, wer den Strafantrag stellen darf oder welche Frist dafür gilt.",
+            "Die Höhe der Geldstrafe ist im Text nicht bestimmt; die Bemessung ist dem Text nicht zu entnehmen."
+        ],
+        "escalation": "sonnet"
+    }
+}

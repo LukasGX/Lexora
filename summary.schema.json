@@ -1,0 +1,173 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"$id": "https://lexora.local/schemas/summary.schema.json",
+	"title": "Lexora Legal Summary",
+	"description": "Structured summary of a German legal provision with traceable references to the original legal text.",
+	"type": "object",
+	"additionalProperties": false,
+	"required": [
+		"schema_version",
+		"law_id",
+		"title",
+		"summary",
+		"sections",
+		"quality"
+	],
+	"properties": {
+		"schema_version": {
+			"type": "integer",
+			"const": 1
+		},
+		"law_id": {
+			"type": "string",
+			"minLength": 1
+		},
+		"title": {
+			"type": "string",
+			"minLength": 1
+		},
+		"summary": {
+			"type": "string",
+			"minLength": 1
+		},
+		"sections": {
+			"type": "array",
+			"items": {
+				"$ref": "#/$defs/section"
+			}
+		},
+		"quality": {
+			"$ref": "#/$defs/quality"
+		}
+	},
+	"$defs": {
+		"section": {
+			"type": "object",
+			"additionalProperties": false,
+			"required": ["type", "title", "content"],
+			"properties": {
+				"type": {
+					"type": "string",
+					"enum": [
+						"elements",
+						"legal_consequences",
+						"exceptions",
+						"procedure",
+						"definitions",
+						"deadlines",
+						"jurisdiction",
+						"other"
+					]
+				},
+				"title": {
+					"type": "string",
+					"minLength": 1
+				},
+				"content": {
+					"$ref": "#/$defs/logicNode"
+				}
+			}
+		},
+		"logicNode": {
+			"oneOf": [
+				{
+					"$ref": "#/$defs/group"
+				},
+				{
+					"$ref": "#/$defs/statement"
+				}
+			]
+		},
+		"group": {
+			"type": "object",
+			"additionalProperties": false,
+			"required": ["operator", "items"],
+			"properties": {
+				"operator": {
+					"type": "string",
+					"enum": ["all", "any"]
+				},
+				"items": {
+					"type": "array",
+					"minItems": 1,
+					"items": {
+						"$ref": "#/$defs/logicNode"
+					}
+				}
+			}
+		},
+		"statement": {
+			"type": "object",
+			"additionalProperties": false,
+			"required": ["text", "sources"],
+			"properties": {
+				"text": {
+					"type": "string",
+					"minLength": 1
+				},
+				"sources": {
+					"type": "array",
+					"minItems": 1,
+					"items": {
+						"$ref": "#/$defs/source"
+					}
+				}
+			}
+		},
+		"source": {
+			"type": "object",
+			"additionalProperties": false,
+			"required": ["paragraph", "sentence", "element_path", "quote"],
+			"properties": {
+				"paragraph": {
+					"type": "string",
+					"minLength": 1
+				},
+				"sentence": {
+					"type": "integer",
+					"minimum": 1
+				},
+				"element_path": {
+					"type": "array",
+					"items": {
+						"oneOf": [
+							{
+								"type": "string"
+							},
+							{
+								"type": "integer",
+								"minimum": 0
+							}
+						]
+					}
+				},
+				"quote": {
+					"type": "string",
+					"minLength": 1
+				}
+			}
+		},
+		"quality": {
+			"type": "object",
+			"additionalProperties": false,
+			"required": ["confidence", "uncertainties", "escalation"],
+			"properties": {
+				"confidence": {
+					"type": "number",
+					"minimum": 0,
+					"maximum": 1
+				},
+				"uncertainties": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				},
+				"escalation": {
+					"type": "string",
+					"enum": ["none", "sonnet", "human"]
+				}
+			}
+		}
+	}
+}

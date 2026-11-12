@@ -2,3 +2,6 @@ __pycache__/
 .venv/
 input.xml
 output.json
+*.nogit
+.env
+.env.*
