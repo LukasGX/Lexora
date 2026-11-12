@@ -1,0 +1,144 @@
+/* Global search */
+.global-search {
+	width: 100%;
+	max-width: 760px;
+	margin: 0;
+	padding: 0;
+}
+
+.global-search .search-heading {
+	margin-bottom: 1.75rem;
+}
+
+.global-search .search-heading h2 {
+	margin: 0;
+	font-weight: 700;
+	color: var(--text);
+}
+
+.global-search .search-heading p {
+	margin: 0.6rem 0 0;
+	color: var(--text-muted);
+	font-size: 1rem;
+}
+
+/* Search input */
+.global-search .search-input {
+	display: flex;
+	align-items: center;
+	gap: 0.85rem;
+
+	width: 100%;
+	padding: 1rem 1.2rem;
+
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: 14px;
+
+	transition:
+		border-color 0.2s ease,
+		box-shadow 0.2s ease;
+}
+
+.global-search .search-input:focus-within {
+	border-color: var(--primary-dark);
+	box-shadow: 0 0 0 3px rgba(248, 209, 82, 0.18);
+}
+
+.global-search .search-input > i {
+	color: var(--text-muted);
+	font-size: 1.1rem;
+}
+
+.global-search .search-input input {
+	flex: 1;
+	min-width: 0;
+
+	border: none;
+	outline: none;
+	background: transparent;
+
+	color: var(--text);
+	font-size: 1rem;
+}
+
+.global-search .search-input input::placeholder {
+	color: var(--text-muted);
+}
+
+.global-search .search-input kbd {
+	padding: 0.25rem 0.5rem;
+
+	border: 1px solid var(--border);
+	border-radius: 5px;
+
+	color: var(--text-muted);
+	background: var(--bg);
+
+	font-family: inherit;
+	font-size: 0.8rem;
+}
+
+/* Search results */
+.search-results {
+	margin-top: 2rem;
+	width: min(900px, 100%);
+}
+
+.results-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 1rem;
+}
+
+.results-list {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+.search-result {
+	padding: 1rem;
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: var(--radius);
+	text-align: left;
+	transition: 0.15s ease;
+	cursor: pointer;
+}
+
+.search-result:hover {
+	background: var(--surface-hover);
+	border-color: var(--primary-dark);
+}
+
+.search-result h3 {
+	margin: 0 0 0.4rem;
+	font-size: 1rem;
+}
+
+.search-result-book {
+	color: var(--text-muted);
+	font-size: 0.85rem;
+}
+
+#load-more {
+	display: block;
+	margin-top: 1.5rem;
+	padding: 0.75rem 1.5rem;
+	border: 1px solid var(--border);
+	border-radius: var(--radius);
+	background: var(--surface);
+	transition: 225ms ease;
+	cursor: pointer;
+}
+
+#load-more:hover {
+	background-color: var(--primary-color);
+}
+
+#load-more:disabled {
+	opacity: 0.5;
+	cursor: wait;
+}

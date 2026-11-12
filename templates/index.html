@@ -6,6 +6,7 @@
 		<title>Lexora</title>
 
 		{% include 'include/imports.html' %}
+		<link rel="stylesheet" href="/static/lander.css" />
 	</head>
 	<body>
 		<div class="head">
@@ -18,6 +19,38 @@
 			</aside>
 			<div id="content">
 				<h1>Willkommen bei Lexora</h1>
+
+				<section class="global-search">
+					<div class="search-heading">
+						<h2>Was suchst du?</h2>
+						<p>Finde Gesetze, Artikel und Paragraphen.</p>
+					</div>
+
+					<div class="search-input">
+						<i class="fa-solid fa-magnifying-glass"></i>
+						<input
+							type="search"
+							id="global-search"
+							placeholder="Gesetz, Artikel oder Paragraph suchen ..."
+							autocomplete="off" />
+						<kbd>/</kbd>
+					</div>
+				</section>
+
+				<section class="search-results" id="search-results" hidden>
+					<div class="results-header">
+						<h2>Suchergebnisse</h2>
+						<span id="results-count"></span>
+					</div>
+
+					<div class="results-list" id="results-list"></div>
+
+					<button id="load-more" type="button" hidden>
+						Weitere Ergebnisse laden
+					</button>
+
+					<p id="search-status" aria-live="polite"></p>
+				</section>
 			</div>
 		</main>
 
@@ -25,5 +58,6 @@
 			const activeBook = "home";
 		</script>
 		<script src="/static/script.js"></script>
+		<script src="/static/lander.js" defer></script>
 	</body>
 </html>

@@ -1,3 +1,4 @@
+from contextlib import asynccontextmanager
 from datetime import datetime
 import json
 
@@ -5,15 +6,51 @@ from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.exceptions import HTTPException
+from pydantic import BaseModel, Field
 from starlette.requests import Request
 from pathlib import Path
 
-app = FastAPI()
+def build_global_title_index():
+    GLOBAL_TITLE_INDEX.clear()
+
+    for file in LAWS_BASE_DIR.rglob("*.json"):
+        with open(file, "r", encoding="utf-8") as f:
+            content = json.load(f)
+
+        book = {
+            "id": content.get("id"),
+            "abbr": content.get("abbr"),
+            "name": content.get("name"),
+            "scope": content.get("scope")
+        }
+
+        for law in content.get("laws", []):
+            nr = str(law.get("nr", ""))
+            name = str(law.get("name") or "")
+
+            GLOBAL_TITLE_INDEX.append({
+                "id": law["id"],
+                "nr": nr,
+                "name": name,
+                "prefix": content.get("prefix", ""),
+                "no_prefix": law.get("no_prefix", False),
+                "book": book,
+                "_search": f"{nr} {name}".lower()
+            })
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    build_global_title_index()
+    yield
+    GLOBAL_TITLE_INDEX.clear()
+
+app = FastAPI(lifespan=lifespan)
 templates = Jinja2Templates(directory="templates")
 
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 LAWS_BASE_DIR = Path("./laws")
+GLOBAL_TITLE_INDEX: list[dict] = []
 
 @app.get("/")
 async def index(request: Request):
@@ -92,3 +129,49 @@ async def get_all_laws(request: Request):
             books.append(content)
 
     return books
+
+class GlobalTitleSearchRequest(BaseModel):
+    query: str
+    page: int = Field(default=1, ge=1)
+    limit: int = Field(default=150, ge=1, le=150)
+
+@app.post("/laws/search/global/title")
+async def search_all_titles(data: GlobalTitleSearchRequest):
+    query = data.query.strip().lower()
+
+    if not query:
+        return {
+            "query": query,
+            "page": data.page,
+            "limit": data.limit,
+            "total": 0,
+            "has_more": False,
+            "results": []
+        }
+
+    matches = [
+        entry for entry in GLOBAL_TITLE_INDEX
+        if query in entry["_search"]
+    ]
+
+    total = len(matches)
+    start = (data.page - 1) * data.limit
+    end = start + data.limit
+
+    results = [
+        {
+            key: value
+            for key, value in entry.items()
+            if key != "_search"
+        }
+        for entry in matches[start:end]
+    ]
+
+    return {
+        "query": query,
+        "page": data.page,
+        "limit": data.limit,
+        "total": total,
+        "has_more": end < total,
+        "results": results
+    }
