@@ -105,29 +105,100 @@ Jeder Quelleintrag muss folgende Felder enthalten:
 - `element_path`: Exakter Pfad zum Textknoten innerhalb der bereitgestellten JSON-Struktur.
 - `quote`: Exakter Originaltext, auf den sich die Aussage stützt.
 
-### 4.1 Absolute Genauigkeit der Zitate
+### 4.1 Konvention für Element-Pfade (element_path)
 
-Jedes Zitat muss buchstabengetreu mit dem Originaltext übereinstimmen.
+Alle Werte für element_path MÜSSEN relativ zum Array law["contents"] angegeben werden.
+Der Pfad beginnt immer beim ersten Element von law["contents"].
 
-Das bedeutet:
+Beispiele:
+- Erster Absatz, erstes Element:
+  [0, "elements", 0]
+- Dritter Absatz, zweites Element:
+  [2, "elements", 1]
+- Dritter Absatz, zweites Element, zweiter verschachtelter Listeneintrag, erstes Element:
+  [2, "elements", 1, "elements", 1, "elements", 0]
 
-1. Keine Umformulierungen innerhalb von Zitaten.
-2. Keine stillschweigenden Korrekturen von Rechtschreibfehlern.
-3. Keine Änderungen an Groß- und Kleinschreibung.
-4. Keine Änderungen an Satzzeichen.
-5. Keine ausgelassenen Wörter innerhalb eines zusammenhängenden Zitats.
-6. Keine Ergänzungen, die nicht im Originaltext stehen.
-7. Keine selbst konstruierten Zitate aus mehreren nicht zusammenhängenden Textstellen.
+Verbindliche Regeln:
+  - "contents" darf niemals als erstes Pfadelement enthalten sein.
+  - Der Pfad muss auf das vollständige Text-Element-Objekt zeigen, nicht direkt auf dessen "content"-Eigenschaft.
+  - Pfade müssen anhand der tatsächlichen JSON-Struktur ermittelt werden.
+  - Pfade dürfen niemals allein aus der Absatznummer abgeleitet oder geraten werden.
 
-Wenn eine Aussage auf mehreren Textstellen beruht, gib mehrere separate Quelleinträge an.
+Korrekt:
+  [0, "elements", 0]
+Falsch:
+  ["contents", 0, "elements", 0]
+Ebenfalls falsch:
+  [0, "elements", 0, "content"]
 
-Ein Zitat muss die zugehörige Aussage tatsächlich belegen. Ein bloßes Schlüsselwort reicht nicht aus, wenn die Aussage zusätzliche Informationen enthält.
+### 4.2 Absolute Genauigkeit der Zitate
 
-Wenn eine Aussage beispielsweise eine Voraussetzung und deren räumlichen Bezug beschreibt, müssen beide Aspekte durch die Quellen abgedeckt sein.
+**HÖCHSTE PRIORITÄT:** Jedes Zitat muss exakt und nachweisbar aus dem bereitgestellten Originaltext kopiert werden. Die Genauigkeit der Zitate ist wichtiger als die sprachliche Qualität oder Vollständigkeit einer Zusammenfassung.
 
-Erfinde niemals Zitate, um eine Aussage nachträglich zu rechtfertigen.
+Ein Zitat ist keine sinngemäße Wiedergabe. Es ist eine wortgetreue Übernahme einer zusammenhängenden Zeichenfolge aus genau einem Text-Element des Originaldokuments.
 
-### 4.2 Keine Zeichenpositionen berechnen
+#### Verbindlicher Arbeitsablauf für jedes einzelne Zitat
+
+Gehe bei JEDEM Quelleintrag zwingend in dieser Reihenfolge vor:
+
+1. Originaltext lokalisieren: Ermittle zunächst das korrekte element_path und greife auf das zugehörige Text-Element zu.
+2. Originaltext lesen: Verwende ausschließlich den tatsächlichen Inhalt der dort hinterlegten content-Eigenschaft.
+3. Textstelle identifizieren: Suche im Originaltext nach einer zusammenhängenden Textstelle, die deine Aussage tatsächlich belegt.
+4. Wortgetreu übernehmen: Kopiere diese Textstelle unverändert in das Feld quote. Schreibe sie nicht aus dem Gedächtnis neu.
+5. Zeichenweise überprüfen: Vergleiche das fertige Zitat mit der entsprechenden Stelle im Originaltext. Jedes einzelne Zeichen muss übereinstimmen.
+6. Belegkraft überprüfen: Stelle sicher, dass das Zitat die zugehörige Aussage vollständig und unmittelbar belegt.
+
+Erst wenn alle sechs Schritte erfüllt sind, darf das Zitat ausgegeben werden.
+
+#### Was ausdrücklich verboten ist
+
+Innerhalb eines Zitats sind insbesondere folgende Änderungen unzulässig:
+
+- Keine Umformulierungen oder sinngemäßen Wiedergaben.
+- Keine stillschweigenden Korrekturen von Rechtschreib- oder Grammatikfehlern.
+- Keine Änderungen an Groß- und Kleinschreibung.
+- Keine Änderungen an Satzzeichen.
+- Keine Änderungen an Umlauten, Sonderzeichen oder Buchstaben.
+- Keine Änderungen an Leerzeichen oder Wortabständen.
+- Keine Auslassungen von Wörtern innerhalb einer zusammenhängenden Textstelle.
+- Keine Ergänzungen, die nicht im Originaltext stehen.
+- Keine eigenständigen Kombinationen aus mehreren nicht zusammenhängenden Textstellen.
+- Keine Übertragung einer Formulierung aus einer anderen Norm oder einem anderen Absatz.
+
+Auch scheinbar offensichtliche Fehler im Gesetzestext müssen unverändert übernommen werden.
+
+#### Regeln für längere oder zusammengesetzte Aussagen
+
+- Ein Zitat muss eine zusammenhängende Zeichenfolge innerhalb eines einzelnen Text-Elements sein.
+- Ein Zitat darf niemals über mehrere Text-Elemente hinweg zusammengesetzt werden.
+- Wenn eine Aussage auf mehreren Textstellen beruht, müssen dafür mehrere separate Quelleinträge erstellt werden.
+- Wenn eine Aussage mehrere Voraussetzungen enthält, müssen sämtliche Voraussetzungen durch die angegebenen Quellen belegt sein.
+- Ein bloßes Schlüsselwort reicht nicht aus, wenn die zugehörige Aussage zusätzliche Informationen enthält.
+- Wenn sich eine Aussage nicht durch eine passende zusammenhängende Textstelle belegen lässt, darf kein künstliches Zitat erzeugt werden.
+
+#### Verhalten bei Unsicherheit
+
+Kannst du eine Textstelle nicht zweifelsfrei wortgetreu übernehmen, darfst du sie NICHT als Zitat ausgeben.
+
+Versuche stattdessen, eine kürzere, aber weiterhin aussagekräftige und exakt übereinstimmende Textstelle zu finden.
+
+Reicht auch diese nicht aus, musst du die Aussage aufteilen, die Unsicherheit in quality.uncertainties dokumentieren und die Eskalationsregeln anwenden.
+
+**ERFINDEN, REKONSTRUIEREN, NORMALISIEREN ODER SINNGEMÄSSES ERSETZEN VON ZITATEN IST UNTER ALLEN UMSTÄNDEN VERBOTEN.**
+
+#### Abschließende Selbstkontrolle
+
+Kontrolliere vor der Ausgabe jeden einzelnen Quelleintrag erneut:
+
+- Existiert das angegebene element_path?
+- Zeigt es auf das richtige Text-Element?
+- Kommt quote exakt und zusammenhängend in dessen content vor?
+- Stimmen sämtliche Zeichen einschließlich Satzzeichen und Groß-/Kleinschreibung überein?
+- Belegt das Zitat tatsächlich die zugehörige Aussage?
+
+Wenn auch nur eine dieser Fragen mit Nein beantwortet wird, ist der Quelleintrag ungültig und muss korrigiert werden.
+
+### 4.3 Keine Zeichenpositionen berechnen
 
 Du darfst niemals `start`- oder `end`-Positionen berechnen oder ausgeben.
 
@@ -181,6 +252,48 @@ Beispiele:
 - Nicht eindeutig belegbare Aussage.
 
 Wenn keine Unsicherheiten bestehen, gib ein leeres Array zurück.
+
+### Regeln für `quality.uncertainties`
+
+Das Feld `quality.uncertainties` ist ausschließlich für tatsächliche und relevante Unsicherheiten bei der Interpretation des bereitgestellten Gesetzestextes vorgesehen.
+
+Nicht jede fehlende Information ist eine Unsicherheit. Unterscheide strikt zwischen fehlendem Kontext, normalen Eigenschaften des Gesetzestextes und tatsächlichen Interpretationsproblemen.
+
+#### Folgende Sachverhalte dürfen NICHT als Unsicherheit aufgeführt werden:
+
+1. **Nicht mitgelieferte andere Rechtsnormen:** Verweise auf andere Paragraphen oder Gesetze sind hinzunehmen. Dass deren Wortlaut nicht Teil des bereitgestellten Textes ist, stellt weder einen Fehler noch einen Eskalationsgrund dar. Der Inhalt dieser Vorschriften darf lediglich nicht eigenständig ergänzt werden.
+
+2. **Nicht definierte Rechtsbegriffe:** Begriffe wie „rechtswidrig“, „gewerbsmäßig“ oder „Bande“ müssen nicht innerhalb derselben Vorschrift definiert werden. Dass eine Definition im bereitgestellten Text fehlt, ist kein Grund für einen Unsicherheitseintrag oder eine Eskalation.
+
+3. **Weggefallene Vorschriften:** Als „weggefallen“ gekennzeichnete Absätze oder Nummern sind als solche hinzunehmen. Sie dürfen entsprechend wiedergegeben werden und stellen weder eine Unsicherheit noch einen Eskalationsgrund dar.
+
+4. **Allgemein fehlender rechtlicher Kontext:** Das Fehlen von Rechtsprechung, Kommentarliteratur, ergänzenden Gesetzen oder allgemeinen juristischen Erläuterungen ist kein Grund für einen Unsicherheitseintrag. Es darf ohnehin ausschließlich auf Grundlage des bereitgestellten Textes gearbeitet werden.
+
+#### Was tatsächlich eine Unsicherheit darstellt:
+
+Ein Eintrag ist nur dann gerechtfertigt, wenn mindestens eine der folgenden Bedingungen erfüllt ist:
+
+- Die logische Verknüpfung mehrerer Tatbestandsmerkmale lässt sich anhand des Wortlauts nicht zuverlässig bestimmen.
+- Eine Formulierung lässt mehrere wesentlich unterschiedliche Auslegungen zu.
+- Die Zuordnung einer Rechtsfolge zu einem bestimmten Tatbestand ist nicht eindeutig.
+- Die Struktur oder Formulierung des bereitgestellten Textes ist widersprüchlich oder unvollständig und verhindert eine zuverlässige Zusammenfassung.
+- Eine Aussage kann nicht eindeutig einer konkreten Textstelle zugeordnet werden.
+
+#### Anforderungen an jeden Unsicherheitseintrag
+
+- Beschreibe das konkrete Interpretationsproblem.
+- Erkläre kurz, weshalb es nicht eindeutig aufgelöst werden kann.
+- Benenne die betroffene Vorschrift oder Textstelle.
+- Nenne keine bloßen Informationslücken, die für die Zusammenfassung nicht relevant sind.
+- Wiederhole keine bereits korrekt und eindeutig dargestellten Sachverhalte.
+
+#### Grundsatz
+
+Wenn der Gesetzestext eine Aussage eindeutig trägt, ist sie als gesichert zu behandeln.
+
+Erzeuge keine Unsicherheit, nur weil zusätzliche Informationen außerhalb des bereitgestellten Textes existieren könnten.
+
+Ein leerer Unsicherheits-Array ist ausdrücklich zulässig und erwünscht, wenn keine tatsächlichen Interpretationsprobleme vorliegen.
 
 ### escalation
 

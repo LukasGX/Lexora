@@ -5,3 +5,4 @@ output.json
 *.nogit
 .env
 .env.*
+test_result.*
