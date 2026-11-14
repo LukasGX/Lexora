@@ -457,3 +457,57 @@ main > div::-webkit-scrollbar-thumb {
 	background: #d5c69e;
 	border-radius: 10px;
 }
+
+/* Responsive Design */
+.nav-toggle {
+	display: none;
+	border: none;
+	background: transparent;
+	color: var(--text);
+	font-size: 1.4rem;
+	padding: 0.5rem;
+	cursor: pointer;
+}
+
+@media (max-width: 700px) {
+	.head {
+		position: relative;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.nav-toggle {
+		display: block;
+		position: relative;
+		z-index: 20;
+	}
+
+	main {
+		position: relative;
+	}
+
+	aside.nav {
+		display: none;
+		position: absolute;
+		top: 0%;
+		left: 0;
+		right: 0;
+		width: 100%;
+		min-height: 50vh;
+		max-height: 70vh;
+		overflow-y: auto;
+		z-index: 15;
+		background: var(--bg-dark);
+		border: 1px solid var(--border);
+		box-shadow: var(--shadow);
+	}
+
+	aside.nav.open {
+		display: block;
+	}
+
+	#content {
+		padding: 1.25rem 1rem;
+	}
+}

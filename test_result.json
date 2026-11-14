@@ -1,12 +1,12 @@
 {
     "schema_version": 1,
     "law_id": "stgb-00263",
-    "title": "§ 263 StGB – Betrug",
-    "summary": "Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen, das Vermögen eines anderen dadurch beschädigt, dass er durch Täuschung über Tatsachen einen Irrtum erregt oder unterhält, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar. In besonders schweren Fällen (Regelbeispiele in Absatz 3) beträgt die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren. Nach Absatz 4 gelten § 243 Abs. 2 sowie die §§ 247 und 248a entsprechend. Wer den Betrug als Mitglied einer Bande, die sich zur fortgesetzten Begehung bestimmter Straftaten verbunden hat, gewerbsmäßig begeht, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft, in minder schweren Fällen mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren. Das Gericht kann Führungsaufsicht anordnen. Absatz 7 ist weggefallen.",
+    "title": "§ 263 Betrug",
+    "summary": "Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen, das Vermögen eines anderen dadurch beschädigt, dass er durch Vorspiegelung falscher oder durch Entstellung oder Unterdrückung wahrer Tatsachen einen Irrtum erregt oder unterhält, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar. In besonders schweren Fällen (Regelbeispiele in Abs. 3) droht Freiheitsstrafe von sechs Monaten bis zu zehn Jahren. Nach Abs. 4 gelten § 243 Abs. 2 sowie die §§ 247 und 248a entsprechend. Wer den Betrug als Mitglied einer Bande, die sich zur fortgesetzten Begehung bestimmter Straftaten verbunden hat, gewerbsmäßig begeht, wird nach Abs. 5 mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft, in minder schweren Fällen mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren. Das Gericht kann Führungsaufsicht anordnen (§ 68 Abs. 1). Abs. 7 ist weggefallen.",
     "sections": [
         {
             "type": "elements",
-            "title": "Tatbestandsmerkmale des Betrugs (Absatz 1)",
+            "title": "Tatbestandsmerkmale des Betrugs (Abs. 1)",
             "content": {
                 "operator": "all",
                 "items": [
@@ -41,25 +41,10 @@
                         ]
                     },
                     {
-                        "text": "Die Vermögensbeschädigung erfolgt dadurch, dass der Täter durch eine der folgenden Täuschungshandlungen einen Irrtum erregt oder unterhält:",
-                        "sources": [
-                            {
-                                "paragraph": "1",
-                                "sentence": 1,
-                                "element_path": [
-                                    0,
-                                    "elements",
-                                    0
-                                ],
-                                "quote": "daß er durch Vorspiegelung falscher oder durch Entstellung oder Unterdrückung wahrer Tatsachen einen Irrtum erregt oder unterhält"
-                            }
-                        ]
-                    },
-                    {
                         "operator": "any",
                         "items": [
                             {
-                                "text": "Vorspiegelung falscher Tatsachen.",
+                                "text": "Täuschungshandlung (Alternative 1): Vorspiegelung falscher Tatsachen.",
                                 "sources": [
                                     {
                                         "paragraph": "1",
@@ -69,12 +54,12 @@
                                             "elements",
                                             0
                                         ],
-                                        "quote": "durch Vorspiegelung falscher"
+                                        "quote": "durch Vorspiegelung falscher oder durch Entstellung oder Unterdrückung wahrer Tatsachen"
                                     }
                                 ]
                             },
                             {
-                                "text": "Entstellung wahrer Tatsachen.",
+                                "text": "Täuschungshandlung (Alternative 2): Entstellung wahrer Tatsachen.",
                                 "sources": [
                                     {
                                         "paragraph": "1",
@@ -84,12 +69,12 @@
                                             "elements",
                                             0
                                         ],
-                                        "quote": "durch Entstellung oder Unterdrückung wahrer Tatsachen"
+                                        "quote": "durch Vorspiegelung falscher oder durch Entstellung oder Unterdrückung wahrer Tatsachen"
                                     }
                                 ]
                             },
                             {
-                                "text": "Unterdrückung wahrer Tatsachen.",
+                                "text": "Täuschungshandlung (Alternative 3): Unterdrückung wahrer Tatsachen.",
                                 "sources": [
                                     {
                                         "paragraph": "1",
@@ -99,7 +84,7 @@
                                             "elements",
                                             0
                                         ],
-                                        "quote": "durch Entstellung oder Unterdrückung wahrer Tatsachen"
+                                        "quote": "durch Vorspiegelung falscher oder durch Entstellung oder Unterdrückung wahrer Tatsachen"
                                     }
                                 ]
                             }
@@ -109,7 +94,7 @@
                         "operator": "any",
                         "items": [
                             {
-                                "text": "Erregung eines Irrtums.",
+                                "text": "Erregen eines Irrtums durch die Täuschungshandlung.",
                                 "sources": [
                                     {
                                         "paragraph": "1",
@@ -124,7 +109,7 @@
                                 ]
                             },
                             {
-                                "text": "Unterhaltung eines Irrtums.",
+                                "text": "Unterhalten eines Irrtums durch die Täuschungshandlung.",
                                 "sources": [
                                     {
                                         "paragraph": "1",
@@ -145,7 +130,7 @@
         },
         {
             "type": "legal_consequences",
-            "title": "Rechtsfolgen des Betrugs (Absatz 1)",
+            "title": "Rechtsfolgen des Betrugs (Abs. 1)",
             "content": {
                 "operator": "any",
                 "items": [
@@ -160,7 +145,7 @@
                                     "elements",
                                     0
                                 ],
-                                "quote": "mit Freiheitsstrafe bis zu fünf Jahren"
+                                "quote": "wird mit Freiheitsstrafe bis zu fünf Jahren"
                             }
                         ]
                     },
@@ -184,9 +169,9 @@
         },
         {
             "type": "other",
-            "title": "Strafbarkeit des Versuchs (Absatz 2)",
+            "title": "Strafbarkeit des Versuchs (Abs. 2)",
             "content": {
-                "text": "Der Versuch ist strafbar.",
+                "text": "Der Versuch des Betrugs ist strafbar.",
                 "sources": [
                     {
                         "paragraph": "2",
@@ -203,7 +188,7 @@
         },
         {
             "type": "legal_consequences",
-            "title": "Rechtsfolge in besonders schweren Fällen (Absatz 3)",
+            "title": "Strafrahmen in besonders schweren Fällen (Abs. 3 Satz 1)",
             "content": {
                 "text": "In besonders schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren.",
                 "sources": [
@@ -222,118 +207,12 @@
         },
         {
             "type": "elements",
-            "title": "Regelbeispiele für besonders schwere Fälle (Absatz 3)",
+            "title": "Regelbeispiele für einen besonders schweren Fall (Abs. 3 Satz 2)",
             "content": {
-                "operator": "any",
+                "operator": "all",
                 "items": [
                     {
-                        "operator": "any",
-                        "items": [
-                            {
-                                "text": "Nr. 1, Alternative 1: Der Täter handelt gewerbsmäßig.",
-                                "sources": [
-                                    {
-                                        "paragraph": "3",
-                                        "sentence": 2,
-                                        "element_path": [
-                                            2,
-                                            "elements",
-                                            0
-                                        ],
-                                        "quote": "Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter"
-                                    },
-                                    {
-                                        "paragraph": "3",
-                                        "sentence": 2,
-                                        "element_path": [
-                                            2,
-                                            "elements",
-                                            1,
-                                            "elements",
-                                            0,
-                                            "elements",
-                                            0
-                                        ],
-                                        "quote": "gewerbsmäßig oder als Mitglied einer Bande handelt"
-                                    }
-                                ]
-                            },
-                            {
-                                "text": "Nr. 1, Alternative 2: Der Täter handelt als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Urkundenfälschung oder Betrug verbunden hat.",
-                                "sources": [
-                                    {
-                                        "paragraph": "3",
-                                        "sentence": 2,
-                                        "element_path": [
-                                            2,
-                                            "elements",
-                                            0
-                                        ],
-                                        "quote": "Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter"
-                                    },
-                                    {
-                                        "paragraph": "3",
-                                        "sentence": 2,
-                                        "element_path": [
-                                            2,
-                                            "elements",
-                                            1,
-                                            "elements",
-                                            0,
-                                            "elements",
-                                            0
-                                        ],
-                                        "quote": "als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung von Urkundenfälschung oder Betrug verbunden hat"
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "operator": "any",
-                        "items": [
-                            {
-                                "text": "Nr. 2, Alternative 1: Der Täter führt einen Vermögensverlust großen Ausmaßes herbei.",
-                                "sources": [
-                                    {
-                                        "paragraph": "3",
-                                        "sentence": 2,
-                                        "element_path": [
-                                            2,
-                                            "elements",
-                                            1,
-                                            "elements",
-                                            1,
-                                            "elements",
-                                            0
-                                        ],
-                                        "quote": "einen Vermögensverlust großen Ausmaßes herbeiführt"
-                                    }
-                                ]
-                            },
-                            {
-                                "text": "Nr. 2, Alternative 2: Der Täter handelt in der Absicht, durch die fortgesetzte Begehung von Betrug eine große Zahl von Menschen in die Gefahr des Verlustes von Vermögenswerten zu bringen.",
-                                "sources": [
-                                    {
-                                        "paragraph": "3",
-                                        "sentence": 2,
-                                        "element_path": [
-                                            2,
-                                            "elements",
-                                            1,
-                                            "elements",
-                                            1,
-                                            "elements",
-                                            0
-                                        ],
-                                        "quote": "in der Absicht handelt, durch die fortgesetzte Begehung von Betrug eine große Zahl von Menschen in die Gefahr des Verlustes von Vermögenswerten zu bringen"
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "text": "Nr. 3: Der Täter bringt eine andere Person in wirtschaftliche Not.",
+                        "text": "Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter eines der folgenden Regelbeispiele erfüllt.",
                         "sources": [
                             {
                                 "paragraph": "3",
@@ -341,54 +220,79 @@
                                 "element_path": [
                                     2,
                                     "elements",
-                                    1,
-                                    "elements",
-                                    2,
-                                    "elements",
                                     0
                                 ],
-                                "quote": "eine andere Person in wirtschaftliche Not bringt"
+                                "quote": "Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter"
                             }
                         ]
                     },
                     {
-                        "text": "Nr. 4: Der Täter missbraucht seine Befugnisse oder seine Stellung als Amtsträger oder Europäischer Amtsträger.",
-                        "sources": [
-                            {
-                                "paragraph": "3",
-                                "sentence": 2,
-                                "element_path": [
-                                    2,
-                                    "elements",
-                                    1,
-                                    "elements",
-                                    3,
-                                    "elements",
-                                    0
-                                ],
-                                "quote": "seine Befugnisse oder seine Stellung als Amtsträger oder Europäischer Amtsträger mißbraucht"
-                            }
-                        ]
-                    },
-                    {
-                        "operator": "all",
+                        "operator": "any",
                         "items": [
                             {
-                                "text": "Nr. 5: Der Täter täuscht einen Versicherungsfall vor.",
-                                "sources": [
+                                "operator": "any",
+                                "items": [
                                     {
-                                        "paragraph": "3",
-                                        "sentence": 2,
-                                        "element_path": [
-                                            2,
-                                            "elements",
-                                            1,
-                                            "elements",
-                                            4,
-                                            "elements",
-                                            0
-                                        ],
-                                        "quote": "einen Versicherungsfall vortäuscht"
+                                        "text": "Nr. 1, Alternative 1: Der Täter handelt gewerbsmäßig.",
+                                        "sources": [
+                                            {
+                                                "paragraph": "3",
+                                                "sentence": 2,
+                                                "element_path": [
+                                                    2,
+                                                    "elements",
+                                                    1,
+                                                    "elements",
+                                                    0,
+                                                    "elements",
+                                                    0
+                                                ],
+                                                "quote": "gewerbsmäßig oder als Mitglied einer Bande handelt"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "operator": "all",
+                                        "items": [
+                                            {
+                                                "text": "Nr. 1, Alternative 2: Der Täter handelt als Mitglied einer Bande.",
+                                                "sources": [
+                                                    {
+                                                        "paragraph": "3",
+                                                        "sentence": 2,
+                                                        "element_path": [
+                                                            2,
+                                                            "elements",
+                                                            1,
+                                                            "elements",
+                                                            0,
+                                                            "elements",
+                                                            0
+                                                        ],
+                                                        "quote": "gewerbsmäßig oder als Mitglied einer Bande handelt"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Die Bande hat sich zur fortgesetzten Begehung von Urkundenfälschung oder Betrug verbunden.",
+                                                "sources": [
+                                                    {
+                                                        "paragraph": "3",
+                                                        "sentence": 2,
+                                                        "element_path": [
+                                                            2,
+                                                            "elements",
+                                                            1,
+                                                            "elements",
+                                                            0,
+                                                            "elements",
+                                                            0
+                                                        ],
+                                                        "quote": "die sich zur fortgesetzten Begehung von Urkundenfälschung oder Betrug verbunden hat"
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -396,7 +300,7 @@
                                 "operator": "any",
                                 "items": [
                                     {
-                                        "text": "Zuvor hat der Täter oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert in Brand gesetzt.",
+                                        "text": "Nr. 2, Alternative 1: Der Täter führt einen Vermögensverlust großen Ausmaßes herbei.",
                                         "sources": [
                                             {
                                                 "paragraph": "3",
@@ -406,16 +310,78 @@
                                                     "elements",
                                                     1,
                                                     "elements",
-                                                    4,
+                                                    1,
                                                     "elements",
                                                     0
                                                 ],
-                                                "quote": "nachdem er oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert in Brand gesetzt"
+                                                "quote": "einen Vermögensverlust großen Ausmaßes herbeiführt"
                                             }
                                         ]
                                     },
                                     {
-                                        "text": "Zuvor hat der Täter oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert durch eine Brandlegung ganz oder teilweise zerstört.",
+                                        "text": "Nr. 2, Alternative 2: Der Täter handelt in der Absicht, durch die fortgesetzte Begehung von Betrug eine große Zahl von Menschen in die Gefahr des Verlustes von Vermögenswerten zu bringen.",
+                                        "sources": [
+                                            {
+                                                "paragraph": "3",
+                                                "sentence": 2,
+                                                "element_path": [
+                                                    2,
+                                                    "elements",
+                                                    1,
+                                                    "elements",
+                                                    1,
+                                                    "elements",
+                                                    0
+                                                ],
+                                                "quote": "in der Absicht handelt, durch die fortgesetzte Begehung von Betrug eine große Zahl von Menschen in die Gefahr des Verlustes von Vermögenswerten zu bringen"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Nr. 3: Der Täter bringt eine andere Person in wirtschaftliche Not.",
+                                "sources": [
+                                    {
+                                        "paragraph": "3",
+                                        "sentence": 2,
+                                        "element_path": [
+                                            2,
+                                            "elements",
+                                            1,
+                                            "elements",
+                                            2,
+                                            "elements",
+                                            0
+                                        ],
+                                        "quote": "eine andere Person in wirtschaftliche Not bringt"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Nr. 4: Der Täter missbraucht seine Befugnisse oder seine Stellung als Amtsträger oder Europäischer Amtsträger.",
+                                "sources": [
+                                    {
+                                        "paragraph": "3",
+                                        "sentence": 2,
+                                        "element_path": [
+                                            2,
+                                            "elements",
+                                            1,
+                                            "elements",
+                                            3,
+                                            "elements",
+                                            0
+                                        ],
+                                        "quote": "seine Befugnisse oder seine Stellung als Amtsträger oder Europäischer Amtsträger mißbraucht"
+                                    }
+                                ]
+                            },
+                            {
+                                "operator": "all",
+                                "items": [
+                                    {
+                                        "text": "Nr. 5: Der Täter täuscht einen Versicherungsfall vor.",
                                         "sources": [
                                             {
                                                 "paragraph": "3",
@@ -429,26 +395,69 @@
                                                     "elements",
                                                     0
                                                 ],
-                                                "quote": "durch eine Brandlegung ganz oder teilweise zerstört"
+                                                "quote": "einen Versicherungsfall vortäuscht"
                                             }
                                         ]
                                     },
                                     {
-                                        "text": "Zuvor hat der Täter oder ein anderer zu diesem Zweck ein Schiff zum Sinken oder Stranden gebracht.",
-                                        "sources": [
+                                        "operator": "any",
+                                        "items": [
                                             {
-                                                "paragraph": "3",
-                                                "sentence": 2,
-                                                "element_path": [
-                                                    2,
-                                                    "elements",
-                                                    1,
-                                                    "elements",
-                                                    4,
-                                                    "elements",
-                                                    0
-                                                ],
-                                                "quote": "ein Schiff zum Sinken oder Stranden gebracht hat"
+                                                "text": "Zuvor hat der Täter oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert in Brand gesetzt.",
+                                                "sources": [
+                                                    {
+                                                        "paragraph": "3",
+                                                        "sentence": 2,
+                                                        "element_path": [
+                                                            2,
+                                                            "elements",
+                                                            1,
+                                                            "elements",
+                                                            4,
+                                                            "elements",
+                                                            0
+                                                        ],
+                                                        "quote": "nachdem er oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert in Brand gesetzt"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Zuvor hat der Täter oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert durch eine Brandlegung ganz oder teilweise zerstört.",
+                                                "sources": [
+                                                    {
+                                                        "paragraph": "3",
+                                                        "sentence": 2,
+                                                        "element_path": [
+                                                            2,
+                                                            "elements",
+                                                            1,
+                                                            "elements",
+                                                            4,
+                                                            "elements",
+                                                            0
+                                                        ],
+                                                        "quote": "durch eine Brandlegung ganz oder teilweise zerstört"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Zuvor hat der Täter oder ein anderer zu diesem Zweck ein Schiff zum Sinken oder Stranden gebracht.",
+                                                "sources": [
+                                                    {
+                                                        "paragraph": "3",
+                                                        "sentence": 2,
+                                                        "element_path": [
+                                                            2,
+                                                            "elements",
+                                                            1,
+                                                            "elements",
+                                                            4,
+                                                            "elements",
+                                                            0
+                                                        ],
+                                                        "quote": "ein Schiff zum Sinken oder Stranden gebracht"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }
@@ -461,26 +470,7 @@
         },
         {
             "type": "other",
-            "title": "Regelwirkung der Beispiele (Absatz 3)",
-            "content": {
-                "text": "Das Vorliegen eines der genannten Beispiele begründet in der Regel einen besonders schweren Fall.",
-                "sources": [
-                    {
-                        "paragraph": "3",
-                        "sentence": 2,
-                        "element_path": [
-                            2,
-                            "elements",
-                            0
-                        ],
-                        "quote": "Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "other",
-            "title": "Entsprechende Geltung weiterer Vorschriften (Absatz 4)",
+            "title": "Entsprechende Geltung weiterer Vorschriften (Abs. 4)",
             "content": {
                 "text": "§ 243 Abs. 2 sowie die §§ 247 und 248a gelten entsprechend.",
                 "sources": [
@@ -499,12 +489,12 @@
         },
         {
             "type": "elements",
-            "title": "Tatbestandsmerkmale der gewerbsmäßigen Bandenbegehung (Absatz 5)",
+            "title": "Gewerbsmäßiger Bandenbetrug (Abs. 5)",
             "content": {
                 "operator": "all",
                 "items": [
                     {
-                        "text": "Der Täter begeht den Betrug als Mitglied einer Bande.",
+                        "text": "Der Täter begeht den Betrug.",
                         "sources": [
                             {
                                 "paragraph": "5",
@@ -515,6 +505,21 @@
                                     0
                                 ],
                                 "quote": "wer den Betrug als Mitglied einer Bande"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Der Täter ist Mitglied einer Bande.",
+                        "sources": [
+                            {
+                                "paragraph": "5",
+                                "sentence": 1,
+                                "element_path": [
+                                    4,
+                                    "elements",
+                                    0
+                                ],
+                                "quote": "als Mitglied einer Bande"
                             }
                         ]
                     },
@@ -553,12 +558,12 @@
         },
         {
             "type": "legal_consequences",
-            "title": "Rechtsfolgen der gewerbsmäßigen Bandenbegehung (Absatz 5)",
+            "title": "Rechtsfolgen des gewerbsmäßigen Bandenbetrugs (Abs. 5)",
             "content": {
-                "operator": "all",
+                "operator": "any",
                 "items": [
                     {
-                        "text": "Regelmäßig: Freiheitsstrafe von einem Jahr bis zu zehn Jahren.",
+                        "text": "Im Regelfall: Freiheitsstrafe von einem Jahr bis zu zehn Jahren.",
                         "sources": [
                             {
                                 "paragraph": "5",
@@ -591,8 +596,8 @@
             }
         },
         {
-            "type": "procedure",
-            "title": "Führungsaufsicht (Absatz 6)",
+            "type": "legal_consequences",
+            "title": "Führungsaufsicht (Abs. 6)",
             "content": {
                 "text": "Das Gericht kann Führungsaufsicht anordnen (§ 68 Abs. 1).",
                 "sources": [
@@ -611,7 +616,7 @@
         },
         {
             "type": "other",
-            "title": "Weggefallener Absatz (Absatz 7)",
+            "title": "Weggefallener Absatz (Abs. 7)",
             "content": {
                 "text": "Absatz 7 ist weggefallen.",
                 "sources": [

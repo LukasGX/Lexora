@@ -4,7 +4,6 @@ async function loadLaws() {
 	});
 
 	const laws = await response.json();
-	console.table(laws);
 
 	const container = document.getElementById("law-books");
 	container.innerHTML = "";
@@ -98,4 +97,18 @@ document.addEventListener("keydown", (event) => {
 		searchInput.dispatchEvent(new Event("input"));
 		searchInput.blur();
 	}
+});
+
+// responsive
+const toggle = document.getElementById("nav-toggle");
+const nav = document.querySelector("aside.nav");
+
+toggle.addEventListener("click", () => {
+	const open = nav.classList.toggle("open");
+
+	toggle.innerHTML = open
+		? '<i class="fa-solid fa-xmark"></i>'
+		: '<i class="fa-solid fa-bars"></i>';
+
+	toggle.setAttribute("aria-expanded", open);
 });
