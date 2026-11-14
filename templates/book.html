@@ -22,7 +22,10 @@
 		<main>
 			<aside class="nav">
 				<h2>Navigation</h2>
-				<div id="law-books"></div>
+				<div id="law-books">
+					{% from "include/navigation.html" import law_navigation %}
+					{{ law_navigation(laws, active_book, user) }}
+				</div>
 			</aside>
 			<div id="content">
 				<section class="law-header">
@@ -58,6 +61,7 @@
 					{% for p in book.laws %}
 					<button
 						class="paragraph"
+						onclick="window.location.href = '/law/{{ p.id }}'"
 						data-id="{{ p.id }}"
 						data-search="{{ (p.nr ~ ' ' ~ (p.name or ''))|lower }}">
 						<div class="paragraph-title">

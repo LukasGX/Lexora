@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="de">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<title>Lexora - Mein Benutzerkonto</title>
+
+		{% include 'include/imports.html' %}
+	</head>
+
+	<body>
+		<div class="head">
+			<p>Lexora</p>
+
+			<button
+				class="nav-toggle"
+				id="nav-toggle"
+				aria-label="Gesetzbuch-Navigation öffnen"
+				aria-expanded="false">
+				<i class="fa-solid fa-bars"></i>
+			</button>
+		</div>
+
+		<main>
+			<aside class="nav">
+				<h2>Navigation</h2>
+				<div id="law-books">
+					{% from "include/navigation.html" import law_navigation %}
+					{{ law_navigation(laws, active_book, user) }}
+				</div>
+			</aside>
+
+			<div id="content" class="account-page">
+				<div class="account-container">
+					{% if user %}
+					<section class="account-card">
+						<div class="account-header">
+							<div class="account-avatar">
+								<i class="fa-solid fa-user"></i>
+							</div>
+							<div>
+								<h1>{{ user.username }}</h1>
+								<p>Dein Lexora-Konto</p>
+							</div>
+						</div>
+
+						<div class="account-details">
+							<div class="account-detail">
+								<span>Benutzername</span>
+								<strong>{{ user.username }}</strong>
+							</div>
+
+							<div class="account-detail">
+								<span>E-Mail-Adresse</span>
+								<strong>{{ user.email }}</strong>
+							</div>
+
+							{% if user.created_at %}
+							<div class="account-detail">
+								<span>Mitglied seit</span>
+								<strong>{{ user.created_at }}</strong>
+							</div>
+							{% endif %}
+						</div>
+
+						<div class="account-actions">
+							<a
+								href="/logout"
+								class="account-button account-button-secondary">
+								<i class="fa-solid fa-right-from-bracket"></i>
+								Abmelden
+							</a>
+						</div>
+					</section>
+					{% else %}
+					<section class="account-card account-guest">
+						<div class="account-icon">
+							<i class="fa-solid fa-user-lock"></i>
+						</div>
+
+						<h1>Dein Lexora-Konto</h1>
+						<p>
+							Melde dich an oder erstelle ein kostenloses Konto,
+							um persönliche Funktionen von Lexora zu nutzen.
+						</p>
+
+						<div class="account-actions">
+							<a
+								href="/login"
+								class="account-button account-button-primary">
+								<i class="fa-solid fa-right-to-bracket"></i>
+								Anmelden
+							</a>
+
+							<a
+								href="/register"
+								class="account-button account-button-secondary">
+								<i class="fa-solid fa-user-plus"></i>
+								Registrieren
+							</a>
+						</div>
+					</section>
+					{% endif %}
+				</div>
+			</div>
+		</main>
+
+		<script src="/static/script.js"></script>
+	</body>
+</html>

@@ -6,3 +6,4 @@ output.json
 .env
 .env.*
 test_result.*
+*.db

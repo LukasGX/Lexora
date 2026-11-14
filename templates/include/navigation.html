@@ -1,0 +1,32 @@
+{% macro law_navigation(laws, active_book="home", user=None) %}
+<button
+	class="law-book {% if active_book == 'home' %}active{% endif %}"
+	data-id="home"
+	title="Startseite"
+	onclick="window.location.href='/'">
+	<i class="fa-solid fa-house"></i>
+	<span>Start</span>
+</button>
+
+<button
+	class="law-book {% if active_book == 'account' %}active{% endif %}"
+	data-id="account"
+	title="Benutzerkonto"
+	onclick="window.location.href='/account'">
+	<i
+		class="fa-solid {% if user %}fa-user{% else %}fa-user-slash{% endif %}"></i>
+	<span>Benutzerkonto</span>
+</button>
+
+<div class="spacer"></div>
+
+{% for law in laws %}
+<button
+	class="law-book {% if law.id == active_book %}active{% endif %}"
+	data-id="{{ law.id }}"
+	title="{{ law.name }}"
+	onclick="window.location.href='/book/{{ law.id }}'">
+	<i class="fa-solid fa-{{ law.icon }}"></i>
+	<span>{{ law.abbr }}</span>
+</button>
+{% endfor %} {% endmacro %}
